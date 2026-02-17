@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "844631418134",
+    "project_id": "trustbus-3e2fe",
+    "storage_bucket": "trustbus-3e2fe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844631418134:android:877cb04342d2a83e8a1c37",
+        "android_client_info": {
+          "package_name": "com.example.my_first_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5O18g0imMRCMDpWgUdSk5DVP0MtqT2Us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
