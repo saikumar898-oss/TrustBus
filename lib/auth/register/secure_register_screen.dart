@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../../services/auth_service.dart';
 import '../verify_email_screen.dart';
-import '../../core/animated_background.dart';
 import '../../core/glass_card.dart';
 
 class SecureRegisterScreen extends StatefulWidget {
@@ -15,51 +14,66 @@ class SecureRegisterScreen extends StatefulWidget {
 class _SecureRegisterScreenState extends State<SecureRegisterScreen> {
   final emailController = TextEditingController();
   final passwordController = TextEditingController();
+
   bool loading = false;
 
   @override
   Widget build(BuildContext context) {
-    final auth = context.read<AuthService>();
+    final auth = Provider.of<AuthService>(context);
 
-    return AnimatedBackground(
-      child: Scaffold(
-        backgroundColor: Colors.transparent,
-        body: Center(
-          child: GlassCard(
+    return Scaffold(
+      body: Center(
+        child: GlassCard(
+          child: Padding(
+            padding: const EdgeInsets.all(30),
             child: Column(
               mainAxisSize: MainAxisSize.min,
               children: [
+                const Text(
+                  "Create Account",
+                  style: TextStyle(fontSize: 26, fontWeight: FontWeight.bold),
+                ),
+                const SizedBox(height: 30),
                 TextField(
                   controller: emailController,
-                  decoration: const InputDecoration(hintText: "Email"),
+                  decoration: const InputDecoration(labelText: "Email"),
                 ),
-                const SizedBox(height: 20),
+                const SizedBox(height: 15),
                 TextField(
                   controller: passwordController,
                   obscureText: true,
-                  decoration: const InputDecoration(hintText: "Password"),
+                  decoration: const InputDecoration(labelText: "Password"),
                 ),
                 const SizedBox(height: 30),
-                ElevatedButton(
-                  onPressed: loading
-                      ? null
-                      : () async {
+                loading
+                    ? const CircularProgressIndicator()
+                    : ElevatedButton(
+                        onPressed: () async {
                           setState(() => loading = true);
+
                           final error = await auth.register(
-                              emailController.text, passwordController.text);
+                            email: emailController.text.trim(),
+                            password: passwordController.text.trim(),
+                            role: "customer",
+                          );
+
                           setState(() => loading = false);
 
-                          if (error == null) {
+                          if (error != null) {
+                            ScaffoldMessenger.of(context).showSnackBar(
+                              SnackBar(content: Text(error)),
+                            );
+                          } else {
                             Navigator.pushReplacement(
-                                context,
-                                MaterialPageRoute(
-                                    builder: (_) => const VerifyEmailScreen()));
+                              context,
+                              MaterialPageRoute(
+                                builder: (_) => const VerifyEmailScreen(),
+                              ),
+                            );
                           }
                         },
-                  child: loading
-                      ? const CircularProgressIndicator(color: Colors.white)
-                      : const Text("Register"),
-                ),
+                        child: const Text("Register"),
+                      ),
               ],
             ),
           ),

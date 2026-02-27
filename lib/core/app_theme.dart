@@ -2,30 +2,25 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class AppTheme {
-  static const Color primaryColor = Color(0xFFFF4B2B);
-  static const Color secondaryPurple = Color(0xFF8E2DE2);
-  static const Color secondaryPink = Color(0xFFFF416C);
+  static const primary = Color(0xFFFF4B2B);
 
-  static ThemeData lightTheme = ThemeData(
-    useMaterial3: true,
+  static final lightTheme = ThemeData(
     brightness: Brightness.light,
-    primaryColor: primaryColor,
+    primaryColor: primary,
     textTheme: GoogleFonts.poppinsTextTheme(),
     elevatedButtonTheme: ElevatedButtonThemeData(
       style: ElevatedButton.styleFrom(
-        backgroundColor: primaryColor,
+        backgroundColor: primary,
         shape: RoundedRectangleBorder(
-          borderRadius: BorderRadius.circular(50),
+          borderRadius: BorderRadius.circular(30),
         ),
-        padding: const EdgeInsets.symmetric(vertical: 18),
       ),
     ),
   );
 
-  static ThemeData darkTheme = ThemeData(
-    useMaterial3: true,
+  static final darkTheme = ThemeData(
     brightness: Brightness.dark,
-    primaryColor: primaryColor,
+    primaryColor: primary,
     textTheme: GoogleFonts.poppinsTextTheme(ThemeData.dark().textTheme),
   );
 }

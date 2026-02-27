@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "844631418134",
+    "firebase_url": "https://trustbus-3e2fe-default-rtdb.asia-southeast1.firebasedatabase.app",
     "project_id": "trustbus-3e2fe",
     "storage_bucket": "trustbus-3e2fe.firebasestorage.app"
   },
@@ -12,7 +13,12 @@
           "package_name": "com.example.my_first_app"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "844631418134-mhd4ajqmbbemgoafon73h651galos3h6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyD5O18g0imMRCMDpWgUdSk5DVP0MtqT2Us"
@@ -20,7 +26,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844631418134-mhd4ajqmbbemgoafon73h651galos3h6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "844631418134-jkj67o65l6k835uro8glrg9ajqgk7vl8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myFirstApp"
+              }
+            }
+          ]
         }
       }
     }
