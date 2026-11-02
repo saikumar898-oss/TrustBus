@@ -3,7 +3,7 @@ import 'package:my_first_app/main.dart';
 
 void main() {
   testWidgets('App loads', (WidgetTester tester) async {
-    await tester.pumpWidget(const MyFirstApp());
-    expect(find.byType(MyFirstApp), findsOneWidget);
+    await tester.pumpWidget(const TrustBusApp());
+    expect(find.byType(TrustBusApp), findsOneWidget);
   });
 }

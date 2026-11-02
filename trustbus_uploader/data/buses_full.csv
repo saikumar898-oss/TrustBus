@@ -1,0 +1,701 @@
+busName,from,to,departureTime,arrivalTime,price,seats,busType,rating,days
+TSRTC Super Luxury,Hyderabad,Bangalore,21:00,07:00,850,40,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Hyderabad,Bangalore,22:00,08:00,900,36,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Hyderabad,Bangalore,20:00,06:00,800,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Hyderabad,Bangalore,19:30,05:30,780,36,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Hyderabad,Bangalore,21:30,07:30,820,40,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Hyderabad,Bangalore,20:30,06:30,950,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+APSRTC Garuda Plus,Hyderabad,Bangalore,23:00,09:00,870,45,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Hyderabad,Bangalore,21:00,07:00,780,40,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+NTR Travels,Hyderabad,Bangalore,22:30,08:30,810,36,AC Sleeper,4.1,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Hyderabad,Bangalore,20:45,06:45,860,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Bangalore,Hyderabad,20:30,07:30,950,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Bangalore,Hyderabad,21:30,08:30,900,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KSRTC Airavat,Bangalore,Hyderabad,20:00,07:00,950,40,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Bangalore,Hyderabad,19:00,06:00,880,36,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Bangalore,Hyderabad,21:00,08:00,970,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+TSRTC Super Luxury,Bangalore,Hyderabad,22:00,09:00,920,40,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Bangalore,Hyderabad,19:30,06:30,890,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Bangalore,Hyderabad,23:00,10:00,840,40,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Bangalore,Hyderabad,20:00,07:00,820,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+NTR Travels,Bangalore,Hyderabad,21:30,08:30,850,36,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Hyderabad,Chennai,22:30,06:30,900,36,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+TSRTC Express,Hyderabad,Chennai,20:30,05:30,830,45,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Hyderabad,Chennai,21:00,06:00,850,40,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Hyderabad,Chennai,20:00,05:00,800,36,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Hyderabad,Chennai,22:00,07:00,780,40,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Hyderabad,Chennai,21:30,06:30,950,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Hyderabad,Chennai,20:15,05:15,870,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+APSRTC Garuda,Hyderabad,Chennai,23:00,08:00,820,45,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Hyderabad,Chennai,19:30,04:30,810,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+NTR Travels,Hyderabad,Chennai,22:00,07:00,840,36,AC Sleeper,4.1,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Chennai,Hyderabad,21:00,06:00,850,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Chennai,Hyderabad,20:00,05:00,820,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KSRTC Airavat,Chennai,Hyderabad,22:00,07:00,870,40,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Chennai,Hyderabad,21:30,06:30,800,36,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Chennai,Hyderabad,20:30,05:30,920,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+TSRTC Express,Chennai,Hyderabad,19:00,04:00,830,45,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Chennai,Hyderabad,22:30,07:30,860,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Chennai,Hyderabad,23:00,08:00,780,40,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+NTR Travels,Chennai,Hyderabad,21:00,06:00,820,36,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Chennai,Hyderabad,20:00,05:00,800,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Hyderabad,Mumbai,18:30,09:00,1200,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Hyderabad,Mumbai,19:00,09:30,1250,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+TSRTC Super Luxury,Hyderabad,Mumbai,20:00,10:30,1100,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Hyderabad,Mumbai,21:00,11:30,1050,36,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Hyderabad,Mumbai,18:00,08:30,1300,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Hyderabad,Mumbai,19:30,10:00,1180,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+APSRTC Express,Hyderabad,Mumbai,22:00,12:30,1000,45,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Hyderabad,Mumbai,20:30,11:00,1150,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+NTR Travels,Hyderabad,Mumbai,17:30,08:00,1220,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Hyderabad,Mumbai,19:00,09:30,1280,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Mumbai,Hyderabad,18:00,06:00,1100,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Mumbai,Hyderabad,19:00,07:00,1150,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+TSRTC Express,Mumbai,Hyderabad,20:00,08:00,1080,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Mumbai,Hyderabad,21:00,09:00,1000,36,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Mumbai,Hyderabad,17:30,06:00,1250,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Mumbai,Hyderabad,18:30,07:00,1180,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Mumbai,Hyderabad,19:30,08:00,1200,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Mumbai,Hyderabad,20:00,08:30,1100,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+NTR Travels,Mumbai,Hyderabad,22:00,10:30,1050,36,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+APSRTC Garuda,Mumbai,Hyderabad,18:00,07:00,1020,45,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+TSRTC Super Luxury,Hyderabad,Vijayawada,23:00,05:30,600,45,Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+APSRTC Express,Hyderabad,Vijayawada,21:00,04:30,580,45,Sleeper,4.1,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Hyderabad,Vijayawada,22:00,05:30,620,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Hyderabad,Vijayawada,20:30,04:00,600,40,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Hyderabad,Vijayawada,21:30,05:00,680,32,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+NTR Travels,Hyderabad,Vijayawada,22:30,06:00,610,36,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Hyderabad,Vijayawada,20:00,03:30,590,40,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Hyderabad,Vijayawada,23:30,07:00,560,36,Non AC Sleeper,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+APSRTC Garuda Plus,Hyderabad,Vijayawada,19:30,03:00,650,45,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Hyderabad,Vijayawada,21:00,04:30,630,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+APSRTC Express,Vijayawada,Hyderabad,20:30,05:30,650,45,Sleeper,4.1,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+TSRTC Super Luxury,Vijayawada,Hyderabad,21:00,06:00,700,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Vijayawada,Hyderabad,22:00,07:00,720,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Vijayawada,Hyderabad,20:00,05:00,680,40,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Vijayawada,Hyderabad,21:30,06:30,750,32,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+NTR Travels,Vijayawada,Hyderabad,22:30,07:30,690,36,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Vijayawada,Hyderabad,19:00,04:00,660,40,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Vijayawada,Hyderabad,23:00,08:00,640,36,Non AC Sleeper,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+APSRTC Garuda Plus,Vijayawada,Hyderabad,18:30,03:30,710,45,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Vijayawada,Hyderabad,20:15,05:15,700,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Hyderabad,Visakhapatnam,19:00,06:30,950,36,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Hyderabad,Visakhapatnam,20:00,07:30,900,40,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+APSRTC Express,Hyderabad,Visakhapatnam,21:00,08:30,850,45,Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+TSRTC Super Luxury,Hyderabad,Visakhapatnam,18:30,06:00,1000,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Hyderabad,Visakhapatnam,22:00,09:30,820,36,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Hyderabad,Visakhapatnam,19:30,07:00,1050,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Hyderabad,Visakhapatnam,20:30,08:00,970,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+NTR Travels,Hyderabad,Visakhapatnam,17:00,04:30,980,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Hyderabad,Visakhapatnam,21:30,09:00,890,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+APSRTC Garuda Plus,Hyderabad,Visakhapatnam,22:30,10:00,870,45,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Visakhapatnam,Hyderabad,20:00,07:30,950,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Visakhapatnam,Hyderabad,21:00,08:30,980,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+APSRTC Express,Visakhapatnam,Hyderabad,19:00,06:30,870,45,Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+TSRTC Express,Visakhapatnam,Hyderabad,22:00,09:30,900,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Visakhapatnam,Hyderabad,18:30,06:00,1020,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Visakhapatnam,Hyderabad,20:30,08:00,960,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+NTR Travels,Visakhapatnam,Hyderabad,17:30,05:00,940,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Visakhapatnam,Hyderabad,23:00,10:30,840,36,Non AC Sleeper,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Visakhapatnam,Hyderabad,21:30,09:00,900,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+APSRTC Garuda,Visakhapatnam,Hyderabad,19:30,07:00,880,45,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+APSRTC Deluxe,Hyderabad,Tirupati,21:30,06:30,700,45,Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Hyderabad,Tirupati,22:00,07:00,750,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Hyderabad,Tirupati,20:30,05:30,720,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+TSRTC Express,Hyderabad,Tirupati,21:00,06:00,680,45,Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Hyderabad,Tirupati,22:30,07:30,800,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+NTR Travels,Hyderabad,Tirupati,20:00,05:00,730,36,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Hyderabad,Tirupati,21:30,06:30,760,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Hyderabad,Tirupati,23:00,08:00,690,40,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Hyderabad,Tirupati,19:30,04:30,660,36,Non AC Sleeper,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+APSRTC Garuda Plus,Hyderabad,Tirupati,22:00,07:00,740,45,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+APSRTC Express,Tirupati,Hyderabad,21:30,05:30,680,45,Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Tirupati,Hyderabad,22:00,06:00,730,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Tirupati,Hyderabad,20:30,04:30,700,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+TSRTC Super Luxury,Tirupati,Hyderabad,21:00,05:00,660,40,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Tirupati,Hyderabad,22:00,06:00,780,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+NTR Travels,Tirupati,Hyderabad,20:00,04:00,710,36,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Tirupati,Hyderabad,21:00,05:00,740,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Tirupati,Hyderabad,23:00,07:00,670,40,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Tirupati,Hyderabad,19:00,03:00,640,36,Non AC Sleeper,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+APSRTC Garuda,Tirupati,Hyderabad,22:30,06:30,720,45,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Hyderabad,Nagpur,19:30,07:30,950,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Hyderabad,Nagpur,20:30,08:30,900,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+TSRTC Express,Hyderabad,Nagpur,21:00,09:00,880,45,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Hyderabad,Nagpur,22:00,10:00,850,36,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Hyderabad,Nagpur,19:00,07:00,1000,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Hyderabad,Nagpur,20:00,08:00,930,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+APSRTC Garuda,Hyderabad,Nagpur,21:30,09:30,860,45,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Hyderabad,Nagpur,18:30,06:30,890,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+NTR Travels,Hyderabad,Nagpur,22:30,10:30,840,36,AC Sleeper,4.1,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Hyderabad,Nagpur,19:00,07:00,970,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Nagpur,Hyderabad,20:30,08:30,950,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Nagpur,Hyderabad,21:30,09:30,980,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+TSRTC Super Luxury,Nagpur,Hyderabad,19:00,07:00,920,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Nagpur,Hyderabad,22:30,10:30,870,36,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Nagpur,Hyderabad,18:30,06:30,1010,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Nagpur,Hyderabad,20:00,08:00,960,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+APSRTC Express,Nagpur,Hyderabad,21:00,09:00,900,45,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Nagpur,Hyderabad,19:30,07:30,910,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+NTR Travels,Nagpur,Hyderabad,22:00,10:00,880,36,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Nagpur,Hyderabad,17:30,05:30,940,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Hyderabad,Pune,18:30,07:30,1000,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Hyderabad,Pune,19:30,08:30,950,40,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+TSRTC Super Luxury,Hyderabad,Pune,20:00,09:00,920,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Hyderabad,Pune,21:00,10:00,880,36,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Hyderabad,Pune,18:00,07:00,1080,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Hyderabad,Pune,19:00,08:00,1000,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Hyderabad,Pune,17:30,06:30,1020,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Hyderabad,Pune,20:30,09:30,960,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+NTR Travels,Hyderabad,Pune,22:00,11:00,900,36,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+APSRTC Garuda Plus,Hyderabad,Pune,19:30,08:30,940,45,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Pune,Hyderabad,19:00,08:00,1000,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Pune,Hyderabad,20:00,09:00,1050,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+MSRTC Express,Pune,Hyderabad,18:00,07:00,950,45,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Pune,Hyderabad,21:00,10:00,900,36,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Pune,Hyderabad,17:30,06:30,1100,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Pune,Hyderabad,19:30,08:30,1060,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Pune,Hyderabad,18:30,07:30,1020,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Pune,Hyderabad,20:30,09:30,980,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+NTR Travels,Pune,Hyderabad,22:00,11:00,930,36,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+TSRTC Express,Pune,Hyderabad,21:30,10:30,910,40,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KSRTC Airavat,Bangalore,Chennai,22:00,05:30,800,40,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Bangalore,Chennai,21:00,04:30,780,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Bangalore,Chennai,20:30,04:00,820,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Bangalore,Chennai,22:30,06:00,750,40,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Bangalore,Chennai,21:30,05:00,760,36,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Bangalore,Chennai,20:00,03:30,880,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Bangalore,Chennai,21:00,04:30,830,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Bangalore,Chennai,22:30,06:00,790,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+TNSTC Express,Bangalore,Chennai,23:00,06:30,730,45,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Bangalore,Chennai,19:30,03:00,850,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Chennai,Bangalore,21:30,05:30,780,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Chennai,Bangalore,20:30,04:30,760,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KSRTC Airavat,Chennai,Bangalore,22:30,06:30,800,40,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Chennai,Bangalore,21:00,05:00,720,40,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Chennai,Bangalore,20:00,04:00,740,36,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Chennai,Bangalore,19:30,03:00,860,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Chennai,Bangalore,21:30,05:00,810,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Chennai,Bangalore,22:00,05:30,770,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+TNSTC Deluxe,Chennai,Bangalore,23:00,06:30,700,45,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Chennai,Bangalore,20:00,03:30,830,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KSRTC Airavat,Bangalore,Mysore,07:00,10:30,350,40,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KSRTC Express,Bangalore,Mysore,08:00,11:30,320,45,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Bangalore,Mysore,09:00,12:30,370,36,AC Seater,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Bangalore,Mysore,10:00,13:30,340,40,AC Seater,4.1,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Bangalore,Mysore,06:30,10:00,400,32,AC Seater,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Bangalore,Mysore,11:00,14:30,330,40,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Bangalore,Mysore,07:30,11:00,310,36,AC Seater,4.1,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Bangalore,Mysore,08:30,12:00,300,40,Non AC Seater,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KSRTC Rajahamsa,Bangalore,Mysore,13:00,16:30,360,40,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Bangalore,Mysore,15:00,18:30,380,36,AC Seater,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KSRTC Airavat,Mysore,Bangalore,07:30,11:00,350,40,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KSRTC Express,Mysore,Bangalore,08:30,12:00,320,45,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Mysore,Bangalore,06:00,09:30,370,36,AC Seater,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Mysore,Bangalore,09:00,12:30,340,40,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Mysore,Bangalore,05:30,09:00,400,32,AC Seater,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Mysore,Bangalore,10:00,13:30,330,40,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Mysore,Bangalore,07:00,10:30,310,36,AC Seater,4.1,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Mysore,Bangalore,08:00,11:30,300,40,Non AC Seater,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KSRTC Rajahamsa,Mysore,Bangalore,14:00,17:30,360,40,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Mysore,Bangalore,16:00,19:30,380,36,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Bangalore,Mangalore,22:00,06:00,900,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KSRTC Airavat,Bangalore,Mangalore,22:30,06:30,850,40,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Bangalore,Mangalore,21:00,05:00,920,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Bangalore,Mangalore,20:30,04:30,870,36,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Bangalore,Mangalore,21:30,05:30,970,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Bangalore,Mangalore,23:00,07:00,820,40,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Bangalore,Mangalore,22:00,06:00,930,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Bangalore,Mangalore,20:00,04:00,880,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Bangalore,Mangalore,21:30,05:30,910,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KSRTC Rajhamsa,Bangalore,Mangalore,23:30,07:30,840,40,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Mangalore,Bangalore,20:30,05:30,850,40,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KSRTC Express,Mangalore,Bangalore,21:00,06:00,820,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Mangalore,Bangalore,22:00,07:00,890,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Mangalore,Bangalore,19:30,04:30,800,36,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Mangalore,Bangalore,21:30,06:30,940,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Mangalore,Bangalore,23:00,08:00,790,40,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Mangalore,Bangalore,20:00,05:00,860,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Mangalore,Bangalore,22:30,07:30,830,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Mangalore,Bangalore,19:00,04:00,870,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KSRTC Airavat,Mangalore,Bangalore,20:45,05:45,840,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Bangalore,Mumbai,20:00,09:00,1100,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Bangalore,Mumbai,21:00,10:00,1150,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KSRTC Airavat,Bangalore,Mumbai,19:00,08:00,1080,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Bangalore,Mumbai,18:00,07:00,1000,36,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Bangalore,Mumbai,19:30,08:30,1200,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Bangalore,Mumbai,20:30,09:30,1120,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Bangalore,Mumbai,18:30,07:30,1140,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Bangalore,Mumbai,21:30,10:30,1060,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Bangalore,Mumbai,22:00,11:00,980,40,Non AC Sleeper,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+NTR Travels,Bangalore,Mumbai,19:00,08:00,1090,36,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Mumbai,Bangalore,18:00,07:00,1100,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Mumbai,Bangalore,19:00,08:00,1150,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KSRTC Airavat,Mumbai,Bangalore,20:00,09:00,1080,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Mumbai,Bangalore,21:00,10:00,1000,36,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Mumbai,Bangalore,17:30,06:30,1200,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Mumbai,Bangalore,18:30,07:30,1120,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Mumbai,Bangalore,19:30,08:30,1140,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Mumbai,Bangalore,20:30,09:30,1060,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Mumbai,Bangalore,22:00,11:00,960,40,Non AC Sleeper,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+MSRTC Shivshahi,Mumbai,Bangalore,19:00,08:00,1030,45,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Bangalore,Pune,20:00,08:00,1100,36,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Bangalore,Pune,21:00,09:00,1150,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KSRTC Airavat,Bangalore,Pune,22:00,10:00,1050,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Bangalore,Pune,19:00,07:00,1000,36,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Bangalore,Pune,18:30,06:30,1200,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Bangalore,Pune,20:30,08:30,1130,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Bangalore,Pune,19:30,07:30,1080,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Bangalore,Pune,21:30,09:30,1060,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Bangalore,Pune,23:00,11:00,970,40,Non AC Sleeper,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KSRTC Express,Bangalore,Pune,22:30,10:30,1020,40,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Pune,Bangalore,21:00,09:00,1080,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Pune,Bangalore,20:00,08:00,1050,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+MSRTC Express,Pune,Bangalore,22:00,10:00,1000,45,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Pune,Bangalore,19:00,07:00,980,36,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Pune,Bangalore,18:30,06:30,1150,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Pune,Bangalore,20:30,08:30,1100,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Pune,Bangalore,19:00,07:00,1060,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Pune,Bangalore,21:30,09:30,1040,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Pune,Bangalore,23:00,11:00,950,40,Non AC Sleeper,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KSRTC Airavat,Pune,Bangalore,22:00,10:00,1020,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KSRTC Express,Bangalore,Thiruvananthapuram,19:00,06:00,1050,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Bangalore,Thiruvananthapuram,20:00,07:00,1100,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Bangalore,Thiruvananthapuram,21:00,08:00,1020,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kerala RTC,Bangalore,Thiruvananthapuram,18:30,05:30,1000,40,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Bangalore,Thiruvananthapuram,19:30,06:30,1150,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Bangalore,Thiruvananthapuram,20:30,07:30,1080,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Bangalore,Thiruvananthapuram,22:00,09:00,980,36,Non AC Sleeper,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Bangalore,Thiruvananthapuram,23:00,10:00,960,40,Non AC Sleeper,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KSRTC Airavat,Bangalore,Thiruvananthapuram,18:00,05:00,1070,40,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Bangalore,Thiruvananthapuram,21:30,08:30,1090,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kerala RTC,Trivandrum,Bangalore,18:30,07:00,1000,40,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Trivandrum,Bangalore,19:30,08:00,1050,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Trivandrum,Bangalore,20:30,09:00,1020,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KSRTC Airavat,Trivandrum,Bangalore,21:00,09:30,1000,40,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Trivandrum,Bangalore,18:00,06:30,1130,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Trivandrum,Bangalore,19:00,07:30,1060,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Trivandrum,Bangalore,22:00,10:30,950,36,Non AC Sleeper,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Trivandrum,Bangalore,23:00,11:30,930,40,Non AC Sleeper,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KSRTC Express,Trivandrum,Bangalore,20:00,08:30,1010,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Trivandrum,Bangalore,21:30,10:00,1040,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Chennai,Coimbatore,21:00,04:30,750,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Chennai,Coimbatore,20:00,03:30,720,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Chennai,Coimbatore,22:00,05:30,680,40,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+TNSTC Deluxe,Chennai,Coimbatore,21:30,05:00,700,45,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Chennai,Coimbatore,20:30,04:00,800,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Chennai,Coimbatore,22:30,06:00,760,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Chennai,Coimbatore,21:00,04:30,710,36,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Chennai,Coimbatore,19:30,03:00,740,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Chennai,Coimbatore,22:00,05:30,700,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+TNSTC Express,Chennai,Coimbatore,20:00,03:30,670,45,AC Seater,4.1,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Coimbatore,Chennai,22:00,05:30,750,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Coimbatore,Chennai,21:00,04:30,730,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Coimbatore,Chennai,20:00,03:30,690,40,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+TNSTC Express,Coimbatore,Chennai,22:30,06:00,710,45,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Coimbatore,Chennai,20:30,04:00,790,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Coimbatore,Chennai,21:30,05:00,740,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Coimbatore,Chennai,22:00,05:30,700,36,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Coimbatore,Chennai,19:30,03:00,720,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Coimbatore,Chennai,23:00,06:30,690,40,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+TNSTC Deluxe,Coimbatore,Chennai,21:00,04:30,680,45,AC Seater,4.1,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Chennai,Madurai,21:30,05:00,750,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Chennai,Madurai,20:30,04:00,720,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Chennai,Madurai,22:30,06:00,680,40,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+TNSTC Deluxe,Chennai,Madurai,21:00,04:30,700,45,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Chennai,Madurai,20:00,03:30,800,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Chennai,Madurai,22:00,05:30,760,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Chennai,Madurai,21:30,05:00,710,36,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Chennai,Madurai,19:30,03:00,740,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Chennai,Madurai,23:00,06:30,690,40,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+TNSTC Express,Chennai,Madurai,20:30,04:00,670,45,AC Seater,4.1,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Madurai,Chennai,20:30,04:00,730,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Madurai,Chennai,21:30,05:00,700,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Madurai,Chennai,22:00,05:30,660,40,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+TNSTC Express,Madurai,Chennai,20:00,03:30,690,45,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Madurai,Chennai,19:30,03:00,780,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Madurai,Chennai,21:00,04:30,740,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Madurai,Chennai,22:30,06:00,700,36,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Madurai,Chennai,19:00,02:30,720,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Madurai,Chennai,21:30,05:00,680,40,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+TNSTC Deluxe,Madurai,Chennai,20:00,03:30,670,45,AC Seater,4.1,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kerala RTC,Kochi,Thiruvananthapuram,19:00,23:30,400,40,AC Seater,4.1,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Kochi,Thiruvananthapuram,20:00,00:30,430,36,AC Seater,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Kochi,Thiruvananthapuram,21:00,01:30,410,40,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KSRTC Express,Kochi,Thiruvananthapuram,18:00,22:30,380,45,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Kochi,Thiruvananthapuram,07:00,11:30,460,32,AC Seater,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Kochi,Thiruvananthapuram,08:00,12:30,370,40,Non AC Seater,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Kochi,Thiruvananthapuram,09:00,13:30,420,36,AC Seater,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KSRTC Airavat,Kochi,Thiruvananthapuram,10:00,14:30,390,40,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Kochi,Thiruvananthapuram,14:00,18:30,400,36,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Kochi,Thiruvananthapuram,16:00,20:30,410,40,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kerala RTC,Thiruvananthapuram,Kochi,18:30,23:00,400,40,AC Seater,4.1,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Thiruvananthapuram,Kochi,19:30,00:00,430,36,AC Seater,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Thiruvananthapuram,Kochi,20:30,01:00,410,40,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KSRTC Express,Thiruvananthapuram,Kochi,17:30,22:00,380,45,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Thiruvananthapuram,Kochi,06:30,11:00,460,32,AC Seater,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Thiruvananthapuram,Kochi,07:30,12:00,370,40,Non AC Seater,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Thiruvananthapuram,Kochi,08:30,13:00,420,36,AC Seater,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KSRTC Airavat,Thiruvananthapuram,Kochi,09:30,14:00,390,40,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Thiruvananthapuram,Kochi,15:00,19:30,400,36,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Thiruvananthapuram,Kochi,17:00,21:30,410,40,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kerala RTC,Kochi,Coimbatore,19:30,23:45,450,40,AC Seater,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Kochi,Coimbatore,20:30,00:45,480,36,AC Seater,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Kochi,Coimbatore,21:00,01:00,460,40,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Kochi,Coimbatore,22:00,02:00,430,40,Non AC Seater,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Kochi,Coimbatore,07:00,11:15,510,32,AC Seater,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Kochi,Coimbatore,08:00,12:15,470,36,AC Seater,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KSRTC Airavat,Kochi,Coimbatore,18:30,22:45,440,40,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Kochi,Coimbatore,20:00,00:15,450,36,AC Seater,4.1,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Kochi,Coimbatore,21:30,01:45,440,40,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Kochi,Coimbatore,09:00,13:15,480,36,AC Seater,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kerala RTC,Coimbatore,Kochi,18:30,22:30,450,40,AC Seater,4.1,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Coimbatore,Kochi,19:30,23:30,480,36,AC Seater,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Coimbatore,Kochi,20:00,00:00,460,40,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Coimbatore,Kochi,21:00,01:00,430,40,Non AC Seater,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Coimbatore,Kochi,06:30,10:30,510,32,AC Seater,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Coimbatore,Kochi,07:30,11:30,470,36,AC Seater,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KSRTC Airavat,Coimbatore,Kochi,18:00,22:00,440,40,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Coimbatore,Kochi,19:30,23:30,450,36,AC Seater,4.1,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Coimbatore,Kochi,21:00,01:00,440,40,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Coimbatore,Kochi,08:30,12:30,480,36,AC Seater,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kerala RTC,Kochi,Kozhikode,07:00,10:30,280,40,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Kochi,Kozhikode,08:00,11:30,300,36,AC Seater,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Kochi,Kozhikode,20:30,00:00,290,40,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KSRTC Express,Kochi,Kozhikode,09:00,12:30,270,45,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Kochi,Kozhikode,06:30,10:00,320,32,AC Seater,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Kochi,Kozhikode,10:00,13:30,260,40,Non AC Seater,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Kochi,Kozhikode,11:00,14:30,290,36,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Kochi,Kozhikode,14:00,17:30,280,40,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KSRTC Airavat,Kochi,Kozhikode,16:00,19:30,275,40,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Kochi,Kozhikode,21:30,01:00,270,36,AC Seater,4.1,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kerala RTC,Kozhikode,Kochi,08:00,11:30,280,40,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Kozhikode,Kochi,07:00,10:30,300,36,AC Seater,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Kozhikode,Kochi,21:30,01:00,290,40,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KSRTC Airavat,Kozhikode,Kochi,10:00,13:30,270,45,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Kozhikode,Kochi,06:00,09:30,320,32,AC Seater,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Kozhikode,Kochi,09:00,12:30,260,40,Non AC Seater,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Kozhikode,Kochi,12:00,15:30,290,36,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Kozhikode,Kochi,15:00,18:30,280,40,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KSRTC Express,Kozhikode,Kochi,17:00,20:30,270,45,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Kozhikode,Kochi,20:30,00:00,270,36,AC Seater,4.1,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+APSRTC Express,Vijayawada,Visakhapatnam,21:30,05:30,700,45,Sleeper,4.1,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Vijayawada,Visakhapatnam,20:30,04:30,750,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Vijayawada,Visakhapatnam,22:00,06:00,720,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+TSRTC Express,Vijayawada,Visakhapatnam,21:00,05:00,680,45,Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Vijayawada,Visakhapatnam,20:00,04:00,790,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+NTR Travels,Vijayawada,Visakhapatnam,22:30,06:30,710,36,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Vijayawada,Visakhapatnam,21:30,05:30,730,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Vijayawada,Visakhapatnam,19:30,03:30,690,40,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Vijayawada,Visakhapatnam,23:00,07:00,660,36,Non AC Sleeper,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+APSRTC Garuda,Vijayawada,Visakhapatnam,20:00,04:00,740,45,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+APSRTC Express,Visakhapatnam,Vijayawada,20:30,04:30,700,45,Sleeper,4.1,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Visakhapatnam,Vijayawada,21:30,05:30,750,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Visakhapatnam,Vijayawada,22:00,06:00,720,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+TSRTC Super Luxury,Visakhapatnam,Vijayawada,19:30,03:30,680,40,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Visakhapatnam,Vijayawada,19:00,03:00,800,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+NTR Travels,Visakhapatnam,Vijayawada,21:00,05:00,700,36,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Visakhapatnam,Vijayawada,22:30,06:30,730,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Visakhapatnam,Vijayawada,20:00,04:00,680,40,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Visakhapatnam,Vijayawada,23:30,07:30,650,36,Non AC Sleeper,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+APSRTC Garuda Plus,Visakhapatnam,Vijayawada,18:30,02:30,760,45,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Mumbai,Pune,18:00,21:30,500,40,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+MSRTC Shivshahi,Mumbai,Pune,07:00,10:30,240,45,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Mumbai,Pune,06:00,09:30,250,36,AC Seater,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Mumbai,Pune,08:00,11:30,480,36,AC Seater,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Mumbai,Pune,09:00,12:30,460,40,AC Seater,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Mumbai,Pune,10:00,13:30,490,36,AC Seater,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Mumbai,Pune,14:00,17:30,430,36,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+MSRTC Express,Mumbai,Pune,16:00,19:30,220,45,Non AC Seater,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Mumbai,Pune,18:30,22:00,440,40,AC Seater,4.1,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Mumbai,Pune,20:00,23:30,470,36,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+MSRTC Shivshahi,Pune,Mumbai,07:00,10:30,240,45,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Pune,Mumbai,20:00,23:30,480,40,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Pune,Mumbai,18:30,22:00,460,36,AC Seater,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Pune,Mumbai,09:00,12:30,500,36,AC Seater,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Pune,Mumbai,08:00,11:30,450,40,AC Seater,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Pune,Mumbai,10:30,14:00,490,36,AC Seater,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Pune,Mumbai,15:00,18:30,420,36,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+MSRTC Express,Pune,Mumbai,17:00,20:30,220,45,Non AC Seater,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Pune,Mumbai,19:00,22:30,440,40,AC Seater,4.1,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Pune,Mumbai,21:00,00:30,460,36,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Mumbai,Goa,21:00,07:30,900,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Mumbai,Goa,22:00,08:30,950,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kadamba Transport,Mumbai,Goa,20:00,06:30,920,36,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+MSRTC Shivshahi,Mumbai,Goa,19:00,05:30,880,45,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Mumbai,Goa,20:30,07:00,980,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Mumbai,Goa,21:30,08:00,960,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Mumbai,Goa,22:30,09:00,930,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Mumbai,Goa,20:00,06:30,860,36,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Mumbai,Goa,21:00,07:30,910,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Mumbai,Goa,23:00,09:30,850,40,Non AC Sleeper,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kadamba Transport,Goa,Mumbai,21:00,08:00,1000,36,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Goa,Mumbai,20:00,07:00,980,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Goa,Mumbai,22:00,09:00,1050,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+MSRTC Express,Goa,Mumbai,19:00,06:00,950,45,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Goa,Mumbai,20:30,07:30,1020,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Goa,Mumbai,21:30,08:30,990,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Goa,Mumbai,22:30,09:30,970,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Goa,Mumbai,20:00,07:00,900,36,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Goa,Mumbai,21:00,08:00,950,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Goa,Mumbai,23:00,10:00,880,40,Non AC Sleeper,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Mumbai,Nagpur,19:30,07:00,950,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Mumbai,Nagpur,20:30,08:00,900,40,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+MSRTC Shivshahi,Mumbai,Nagpur,18:00,06:00,870,45,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Mumbai,Nagpur,21:00,09:00,820,36,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Mumbai,Nagpur,19:00,06:30,1000,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Mumbai,Nagpur,18:30,06:00,940,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Mumbai,Nagpur,20:00,07:30,920,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Mumbai,Nagpur,21:30,09:00,880,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Mumbai,Nagpur,22:00,09:30,810,40,Non AC Sleeper,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+MSRTC Express,Mumbai,Nagpur,17:30,05:30,850,45,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Nagpur,Mumbai,20:30,06:30,900,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Nagpur,Mumbai,21:30,07:30,950,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+MSRTC Express,Nagpur,Mumbai,19:00,05:00,850,45,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Nagpur,Mumbai,22:00,08:00,820,36,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Nagpur,Mumbai,18:30,04:30,1010,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Nagpur,Mumbai,20:00,06:00,940,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Nagpur,Mumbai,19:30,05:30,910,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Nagpur,Mumbai,21:00,07:00,880,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Nagpur,Mumbai,22:30,08:30,800,40,Non AC Sleeper,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+MSRTC Shivshahi,Nagpur,Mumbai,18:00,04:00,860,45,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Mumbai,Ahmedabad,21:00,05:30,800,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Mumbai,Ahmedabad,20:00,04:30,780,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+GSRTC Express,Mumbai,Ahmedabad,22:00,06:30,750,45,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Mumbai,Ahmedabad,19:00,03:30,850,36,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Mumbai,Ahmedabad,20:30,05:00,820,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Mumbai,Ahmedabad,21:30,06:00,800,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Mumbai,Ahmedabad,19:30,04:00,770,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Mumbai,Ahmedabad,22:30,07:00,730,36,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Mumbai,Ahmedabad,23:00,07:30,720,40,Non AC Sleeper,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+GSRTC Volvo,Mumbai,Ahmedabad,20:00,04:30,810,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+GSRTC Express,Ahmedabad,Mumbai,20:30,05:00,780,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Ahmedabad,Mumbai,21:30,06:00,800,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Ahmedabad,Mumbai,19:30,04:00,760,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Ahmedabad,Mumbai,22:00,06:30,850,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Ahmedabad,Mumbai,20:00,04:30,820,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Ahmedabad,Mumbai,21:00,05:30,790,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Ahmedabad,Mumbai,19:00,03:30,760,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Ahmedabad,Mumbai,22:30,07:00,720,36,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Ahmedabad,Mumbai,23:00,07:30,700,40,Non AC Sleeper,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+GSRTC Volvo,Ahmedabad,Mumbai,20:30,05:00,800,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Pune,Goa,20:00,06:30,900,36,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Pune,Goa,21:00,07:30,950,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+MSRTC Express,Pune,Goa,19:00,05:30,850,45,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kadamba Transport,Pune,Goa,22:00,08:30,880,36,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Pune,Goa,20:30,07:00,980,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Pune,Goa,21:30,08:00,940,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Pune,Goa,22:30,09:00,920,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Pune,Goa,19:30,06:00,840,36,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Pune,Goa,20:00,06:30,890,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Pune,Goa,23:00,09:30,810,40,Non AC Sleeper,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kadamba Transport,Goa,Pune,20:00,06:30,900,36,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Goa,Pune,21:00,07:30,920,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Goa,Pune,22:00,08:30,950,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+MSRTC Shivshahi,Goa,Pune,19:30,06:00,870,45,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Goa,Pune,20:30,07:00,970,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Goa,Pune,21:30,08:00,940,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Goa,Pune,22:30,09:00,910,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Goa,Pune,19:00,05:30,860,36,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Goa,Pune,20:30,07:00,880,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Goa,Pune,23:30,10:00,800,40,Non AC Sleeper,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Delhi,Jaipur,18:00,23:30,600,40,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+RSRTC Deluxe,Delhi,Jaipur,19:00,00:30,580,45,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Delhi,Jaipur,20:00,01:30,620,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Delhi,Jaipur,21:00,02:30,700,36,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Delhi,Jaipur,06:00,11:30,550,40,AC Seater,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Delhi,Jaipur,07:00,12:30,580,36,AC Seater,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+RSRTC Volvo,Delhi,Jaipur,08:00,13:30,650,40,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Delhi,Jaipur,09:00,14:30,540,36,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Delhi,Jaipur,10:00,15:30,610,36,AC Seater,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Delhi,Jaipur,22:00,03:30,530,40,Non AC Seater,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+RSRTC Deluxe,Jaipur,Delhi,17:00,22:30,580,40,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Jaipur,Delhi,18:00,23:30,600,40,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Jaipur,Delhi,20:00,01:30,620,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Jaipur,Delhi,21:00,02:30,700,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Jaipur,Delhi,05:00,10:30,550,40,AC Seater,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Jaipur,Delhi,06:30,12:00,570,36,AC Seater,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+RSRTC Volvo,Jaipur,Delhi,07:30,13:00,640,40,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Jaipur,Delhi,08:30,14:00,530,36,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Jaipur,Delhi,09:30,15:00,600,36,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Jaipur,Delhi,22:30,04:00,510,40,Non AC Seater,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Delhi,Chandigarh,17:30,22:30,450,40,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+HRTC Deluxe,Delhi,Chandigarh,18:30,23:30,430,40,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Delhi,Chandigarh,19:00,00:00,470,36,AC Seater,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Delhi,Chandigarh,20:00,01:00,550,36,AC Seater,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Delhi,Chandigarh,06:00,11:00,420,40,AC Seater,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Delhi,Chandigarh,07:30,12:30,450,36,AC Seater,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+HRTC Volvo,Delhi,Chandigarh,08:00,13:00,500,40,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Delhi,Chandigarh,09:00,14:00,410,36,AC Seater,4.1,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Delhi,Chandigarh,10:00,15:00,460,36,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Delhi,Chandigarh,21:00,02:00,400,40,Non AC Seater,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+HRTC Deluxe,Chandigarh,Delhi,18:30,23:30,450,40,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Chandigarh,Delhi,17:30,22:30,430,40,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Chandigarh,Delhi,19:00,00:00,470,36,AC Seater,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Chandigarh,Delhi,20:00,01:00,530,36,AC Seater,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Chandigarh,Delhi,05:30,10:30,420,40,AC Seater,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Chandigarh,Delhi,06:30,11:30,450,36,AC Seater,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+HRTC Volvo,Chandigarh,Delhi,07:30,12:30,500,40,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Chandigarh,Delhi,08:30,13:30,410,36,AC Seater,4.1,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Chandigarh,Delhi,09:30,14:30,460,36,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Chandigarh,Delhi,21:30,02:30,390,40,Non AC Seater,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Delhi,Lucknow,20:00,06:00,700,36,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Delhi,Lucknow,21:00,07:00,750,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+UPSRTC Deluxe,Delhi,Lucknow,19:00,05:00,650,45,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Delhi,Lucknow,22:00,08:00,800,36,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Delhi,Lucknow,20:30,06:30,720,40,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Delhi,Lucknow,19:30,05:30,740,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+UPSRTC Volvo,Delhi,Lucknow,21:30,07:30,680,45,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Delhi,Lucknow,22:30,08:30,660,36,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Delhi,Lucknow,20:00,06:00,730,36,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Delhi,Lucknow,23:00,09:00,630,40,Non AC Sleeper,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+UPSRTC Deluxe,Lucknow,Delhi,19:30,05:30,680,40,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Lucknow,Delhi,20:30,06:30,700,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Lucknow,Delhi,21:30,07:30,730,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Lucknow,Delhi,22:00,08:00,780,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Lucknow,Delhi,20:00,06:00,710,40,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Lucknow,Delhi,19:00,05:00,740,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+UPSRTC Volvo,Lucknow,Delhi,21:00,07:00,670,45,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Lucknow,Delhi,22:30,08:30,640,36,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Lucknow,Delhi,20:30,06:30,720,36,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Lucknow,Delhi,23:30,09:30,610,40,Non AC Sleeper,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Delhi,Agra,06:00,10:30,450,40,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Delhi,Agra,07:00,11:30,480,36,AC Seater,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+UPSRTC Express,Delhi,Agra,08:00,12:30,420,45,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Delhi,Agra,09:00,13:30,550,36,AC Seater,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Delhi,Agra,06:30,11:00,440,40,AC Seater,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Delhi,Agra,07:30,12:00,470,36,AC Seater,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+UPSRTC Volvo,Delhi,Agra,10:00,14:30,500,40,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Delhi,Agra,11:00,15:30,410,36,AC Seater,4.1,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Delhi,Agra,12:00,16:30,460,36,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Delhi,Agra,14:00,18:30,390,40,Non AC Seater,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+UPSRTC Express,Agra,Delhi,07:00,11:30,430,45,AC Seater,4.1,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Agra,Delhi,08:00,12:30,450,40,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Agra,Delhi,09:00,13:30,480,36,AC Seater,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Agra,Delhi,10:00,14:30,550,36,AC Seater,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Agra,Delhi,07:30,12:00,440,40,AC Seater,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Agra,Delhi,08:30,13:00,470,36,AC Seater,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+UPSRTC Volvo,Agra,Delhi,11:00,15:30,500,40,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Agra,Delhi,12:00,16:30,410,36,AC Seater,4.1,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Agra,Delhi,13:00,17:30,460,36,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Agra,Delhi,15:00,19:30,390,40,Non AC Seater,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Delhi,Amritsar,21:00,05:30,700,36,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Delhi,Amritsar,22:00,06:30,750,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+PRTC Express,Delhi,Amritsar,20:00,04:30,680,45,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Delhi,Amritsar,19:00,03:30,800,36,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Delhi,Amritsar,20:30,05:00,720,40,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Delhi,Amritsar,19:30,04:00,740,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+PRTC Volvo,Delhi,Amritsar,21:30,06:00,730,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Delhi,Amritsar,22:30,07:00,660,36,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Delhi,Amritsar,20:00,04:30,710,36,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Delhi,Amritsar,23:00,07:30,640,40,Non AC Sleeper,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+PRTC Express,Amritsar,Delhi,20:30,05:00,680,40,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Amritsar,Delhi,21:30,06:00,700,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Amritsar,Delhi,22:30,07:00,730,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Amritsar,Delhi,19:30,04:00,780,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Amritsar,Delhi,20:00,04:30,710,40,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Amritsar,Delhi,19:00,03:30,740,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+PRTC Volvo,Amritsar,Delhi,21:00,05:30,720,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Amritsar,Delhi,22:00,06:30,650,36,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Amritsar,Delhi,20:30,05:00,700,36,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Amritsar,Delhi,23:30,08:00,620,40,Non AC Sleeper,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Delhi,Dehradun,06:30,12:00,500,36,AC Seater,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Delhi,Dehradun,07:30,13:00,480,40,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+UPSRTC Express,Delhi,Dehradun,08:00,13:30,450,45,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Delhi,Dehradun,09:00,14:30,580,36,AC Seater,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Delhi,Dehradun,07:00,12:30,460,40,AC Seater,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Delhi,Dehradun,08:30,14:00,490,36,AC Seater,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+UPSRTC Volvo,Delhi,Dehradun,10:00,15:30,530,40,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Delhi,Dehradun,06:00,11:30,440,36,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Delhi,Dehradun,11:00,16:30,500,36,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Delhi,Dehradun,21:00,02:30,430,40,Non AC Seater,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+UPSRTC Express,Dehradun,Delhi,07:00,12:30,480,45,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Dehradun,Delhi,08:00,13:30,500,40,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Dehradun,Delhi,09:00,14:30,520,36,AC Seater,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Dehradun,Delhi,10:00,15:30,580,36,AC Seater,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Dehradun,Delhi,06:30,12:00,460,40,AC Seater,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Dehradun,Delhi,07:30,13:00,490,36,AC Seater,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+UPSRTC Volvo,Dehradun,Delhi,11:00,16:30,540,40,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Dehradun,Delhi,05:30,11:00,440,36,AC Seater,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Dehradun,Delhi,12:00,17:30,500,36,AC Seater,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Dehradun,Delhi,20:30,02:00,420,40,Non AC Seater,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Kolkata,Bhubaneswar,20:00,05:00,700,36,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Kolkata,Bhubaneswar,21:00,06:00,750,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+OSRTC Express,Kolkata,Bhubaneswar,19:00,04:00,680,40,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Kolkata,Bhubaneswar,22:00,07:00,650,36,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Kolkata,Bhubaneswar,19:30,04:30,780,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Kolkata,Bhubaneswar,20:30,05:30,730,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Kolkata,Bhubaneswar,21:30,06:30,710,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Kolkata,Bhubaneswar,18:30,03:30,690,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Kolkata,Bhubaneswar,22:30,07:30,630,40,Non AC Sleeper,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+OSRTC Deluxe,Kolkata,Bhubaneswar,20:00,05:00,720,40,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+OSRTC Deluxe,Bhubaneswar,Kolkata,20:30,05:00,730,40,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Bhubaneswar,Kolkata,21:30,06:00,700,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Bhubaneswar,Kolkata,22:30,07:00,750,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Bhubaneswar,Kolkata,19:30,04:00,660,36,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Bhubaneswar,Kolkata,19:00,03:30,800,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Bhubaneswar,Kolkata,20:00,04:30,740,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Bhubaneswar,Kolkata,21:00,05:30,710,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Bhubaneswar,Kolkata,18:30,03:00,690,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Bhubaneswar,Kolkata,23:00,07:30,640,40,Non AC Sleeper,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+OSRTC Express,Bhubaneswar,Kolkata,20:30,05:00,720,40,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Kolkata,Patna,20:00,07:00,800,36,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Kolkata,Patna,21:00,08:00,850,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+BSRTC Express,Kolkata,Patna,19:00,06:00,750,45,AC Sleeper,4.1,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Kolkata,Patna,20:30,07:30,900,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Kolkata,Patna,22:00,09:00,720,36,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Kolkata,Patna,19:30,06:30,830,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Kolkata,Patna,21:30,08:30,790,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Kolkata,Patna,22:30,09:30,810,36,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Kolkata,Patna,23:00,10:00,700,40,Non AC Sleeper,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+BSRTC Deluxe,Kolkata,Patna,18:30,05:30,780,45,AC Sleeper,4.1,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+BSRTC Express,Patna,Kolkata,19:30,06:30,750,45,AC Sleeper,4.1,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Patna,Kolkata,20:30,07:30,800,36,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Patna,Kolkata,21:30,08:30,840,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Patna,Kolkata,20:00,07:00,890,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Patna,Kolkata,22:30,09:30,710,36,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Patna,Kolkata,19:00,06:00,820,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Patna,Kolkata,21:00,08:00,780,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Patna,Kolkata,22:00,09:00,800,36,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Patna,Kolkata,23:30,10:30,690,40,Non AC Sleeper,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+BSRTC Deluxe,Patna,Kolkata,18:00,05:00,770,45,AC Sleeper,4.1,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Delhi,Mumbai,14:00,10:00,1400,36,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Delhi,Mumbai,15:00,11:00,1500,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Delhi,Mumbai,13:00,09:00,1600,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Delhi,Mumbai,16:00,12:00,1300,36,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Delhi,Mumbai,14:30,10:30,1520,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Delhi,Mumbai,15:30,11:30,1480,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Delhi,Mumbai,13:30,09:30,1450,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Delhi,Mumbai,17:00,13:00,1250,40,Non AC Sleeper,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+MSRTC Shivshahi,Delhi,Mumbai,14:00,10:00,1380,45,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+UPSRTC Volvo,Delhi,Mumbai,16:30,12:30,1420,40,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Mumbai,Delhi,14:00,10:00,1400,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Mumbai,Delhi,15:00,11:00,1500,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Mumbai,Delhi,13:00,09:00,1620,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Mumbai,Delhi,16:00,12:00,1280,36,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Mumbai,Delhi,14:30,10:30,1520,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Kallada Travels,Mumbai,Delhi,15:30,11:30,1480,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Zingbus,Mumbai,Delhi,13:30,09:30,1450,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+KPN Travels,Mumbai,Delhi,17:00,13:00,1250,40,Non AC Sleeper,3.9,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+MSRTC Shivshahi,Mumbai,Delhi,14:00,10:00,1350,45,AC Sleeper,4.2,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+GSRTC Volvo,Mumbai,Delhi,16:00,12:00,1400,40,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Kolkata,Hyderabad,14:00,12:00,1500,36,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Kolkata,Hyderabad,15:00,13:00,1600,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Kolkata,Hyderabad,13:00,11:00,1700,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Kolkata,Hyderabad,16:00,14:00,1400,36,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Kolkata,Hyderabad,14:30,12:30,1550,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Hyderabad,Kolkata,14:00,12:00,1500,36,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Hyderabad,Kolkata,15:00,13:00,1580,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Hyderabad,Kolkata,13:00,11:00,1680,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Hyderabad,Kolkata,16:00,14:00,1380,36,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Hyderabad,Kolkata,14:30,12:30,1530,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Kolkata,Chennai,14:00,12:00,1600,36,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Kolkata,Chennai,15:30,13:30,1680,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Kolkata,Chennai,13:00,11:00,1750,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Kolkata,Chennai,16:00,14:00,1480,36,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Kolkata,Chennai,14:30,12:30,1620,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+VRL Travels,Chennai,Kolkata,14:00,12:00,1600,36,AC Sleeper,4.3,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Orange Travels,Chennai,Kolkata,15:30,13:30,1650,36,AC Sleeper,4.4,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+IntrCity Smart,Chennai,Kolkata,13:00,11:00,1720,32,AC Sleeper,4.6,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+SRS Travels,Chennai,Kolkata,16:00,14:00,1460,36,Non AC Sleeper,4.0,Mon|Tue|Wed|Thu|Fri|Sat|Sun
+Paulo Travels,Chennai,Kolkata,14:30,12:30,1600,36,AC Sleeper,4.5,Mon|Tue|Wed|Thu|Fri|Sat|Sun

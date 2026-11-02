@@ -1,0 +1,43 @@
+{
+  "name": "trustbus_uploader",
+  "version": "1.0.0",
+  "description": "TrustBus — Firestore dataset upload scripts",
+  "private": true,
+  "scripts": {
+    "upload:all":               "node scripts/upload_all.js",
+    "upload:all:dry":           "node scripts/upload_all.js --dry-run",
+    "upload:all:verbose":       "node scripts/upload_all.js --verbose",
+    "upload:all:continue":      "node scripts/upload_all.js --continue-on-error",
+
+    "upload:operators":         "node scripts/upload_operators.js",
+    "upload:operators:dry":     "node scripts/upload_operators.js --dry-run",
+    "upload:operators:append":  "node scripts/upload_operators.js --skip-delete",
+
+    "upload:routes":            "node scripts/upload_routes.js",
+    "upload:routes:dry":        "node scripts/upload_routes.js --dry-run",
+    "upload:routes:append":     "node scripts/upload_routes.js --skip-delete",
+
+    "upload:buses":             "node scripts/upload_route_schedules.js",
+    "upload:buses:dry":         "node scripts/upload_route_schedules.js --dry-run",
+    "upload:buses:append":      "node scripts/upload_route_schedules.js --skip-delete",
+
+    "upload:drivers":           "node scripts/upload_drivers.js",
+    "upload:drivers:dry":       "node scripts/upload_drivers.js --dry-run",
+    "upload:drivers:append":    "node scripts/upload_drivers.js --skip-delete",
+
+    "upload:fleet":             "node scripts/upload_fleet_buses.js",
+    "upload:fleet:dry":         "node scripts/upload_fleet_buses.js --dry-run",
+    "upload:fleet:append":      "node scripts/upload_fleet_buses.js --skip-delete",
+
+    "upload:safety":            "node scripts/upload_safety_reports.js",
+    "upload:safety:dry":        "node scripts/upload_safety_reports.js --dry-run",
+    "upload:safety:append":     "node scripts/upload_safety_reports.js --skip-delete"
+  },
+  "dependencies": {
+    "csv-parser": "^3.2.0",
+    "firebase-admin": "^13.7.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

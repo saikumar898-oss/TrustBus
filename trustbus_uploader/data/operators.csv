@@ -1,0 +1,23 @@
+operatorId,name,fullName,hqCity,state,type,founded,phone,email,avgRating,active
+OP001,TSRTC,Telangana State RTC,Hyderabad,Telangana,govt,1932,9000111222,info@tsrtc.gov.in,4.3,True
+OP002,APSRTC,Andhra Pradesh STC,Vijayawada,Andhra Pradesh,govt,1932,9000222333,info@apsrtc.gov.in,4.1,True
+OP003,KSRTC,Karnataka STC,Bangalore,Karnataka,govt,1961,9000333444,info@ksrtc.gov.in,4.4,True
+OP004,TNSTC,Tamil Nadu STC,Chennai,Tamil Nadu,govt,1972,9000444555,info@tnstc.gov.in,4.2,True
+OP005,Kerala RTC,Kerala RTC,Thiruvananthapuram,Kerala,govt,1965,9000555666,info@keralartc.gov.in,4.1,True
+OP006,MSRTC,Maharashtra STC,Mumbai,Maharashtra,govt,1948,9000666777,info@msrtc.gov.in,4.2,True
+OP007,GSRTC,Gujarat STC,Ahmedabad,Gujarat,govt,1960,9000777888,info@gsrtc.gov.in,4.2,True
+OP008,UPSRTC,Uttar Pradesh STC,Lucknow,Uttar Pradesh,govt,1947,9000888999,info@upsrtc.gov.in,4.1,True
+OP009,RSRTC,Rajasthan STC,Jaipur,Rajasthan,govt,1964,9001111222,info@rsrtc.gov.in,4.2,True
+OP010,HRTC,Himachal Pradesh RTC,Shimla,Himachal Pradesh,govt,1974,9001222333,info@hrtc.gov.in,4.1,True
+OP011,PRTC,Punjab Roadways,Chandigarh,Punjab,govt,1955,9001333444,info@prtc.gov.in,4.2,True
+OP012,OSRTC,Odisha STC,Bhubaneswar,Odisha,govt,1959,9001444555,info@osrtc.gov.in,4.0,True
+OP013,Kadamba Transport,Kadamba Transport Corp,Panaji,Goa,govt,1975,9001555666,info@kadamba.gov.in,4.2,True
+OP014,Orange Travels,Orange Travels Pvt Ltd,Hyderabad,Telangana,private,2005,9002111222,support@orangetravels.in,4.6,True
+OP015,VRL Travels,VRL Logistics Ltd,Hubli,Karnataka,private,1976,9002222333,support@vrl.in,4.3,True
+OP016,SRS Travels,SRS Travels Pvt Ltd,Hyderabad,Telangana,private,2000,9002333444,support@srstravels.in,4.1,True
+OP017,KPN Travels,KPN Travels Pvt Ltd,Salem,Tamil Nadu,private,1998,9002444555,support@kpntravels.in,4.0,True
+OP018,IntrCity Smart,IntrCity Pvt Ltd,Delhi,Delhi,private,2015,9002555666,support@intrcity.in,4.6,True
+OP019,Kallada Travels,Kallada Travels,Kochi,Kerala,private,1996,9002666777,support@kallada.in,4.5,True
+OP020,Paulo Travels,Paulo Travels,Goa,Goa,private,1972,9002777888,support@paulotravels.in,4.5,True
+OP021,Zingbus,Zingbus Pvt Ltd,Gurugram,Haryana,private,2017,9002888999,support@zingbus.com,4.4,True
+OP022,NTR Travels,NTR Travels Pvt Ltd,Vijayawada,Andhra Pradesh,private,2002,9003111222,support@ntrtravels.in,4.3,True

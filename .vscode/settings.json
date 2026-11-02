@@ -1,3 +1,4 @@
 {
-    "java.dependency.syncWithFolderExplorer": false
+    "java.dependency.syncWithFolderExplorer": false,
+    "cmake.sourceDirectory": "C:/flutter_projects/my_first_app/linux"
 }

@@ -1,0 +1,101 @@
+reportId,busNumber,type,severity,title,description,location,status,reportDate,reportedBy
+SR0001,UP 32 FG 1234,Fire,Low,Minor fire in luggage bay,Police informed and FIR filed. No injuries reported.,Chandigarh Highway,In Progress,2026-02-21,D020
+SR0002,PB 10 AZ 5678,Breakdown,Low,Brake failure warning,Passengers transferred to another bus with minimal delay.,"NH-44, km 42",Resolved,2026-03-22,D006
+SR0003,TN 09 AX 1234,Breakdown,Medium,Brake failure warning,Passengers were evacuated and alternate transport arranged.,"NH-4, near Pune",Resolved,2025-12-28,D018
+SR0004,TN 09 AX 5678,Fire,Medium,Smoke from engine,Police informed and FIR filed. No injuries reported.,"Outer Ring Road, Bangalore",In Progress,2026-03-04,D029
+SR0005,KA 51 C 2345,Medical,Medium,Driver health issue,Passengers were evacuated and alternate transport arranged.,"NH-48, Tumkur Road",Resolved,2026-01-27,D019
+SR0006,RJ 14 CX 1234,Medical,High,Passenger unconscious,Passengers transferred to another bus with minimal delay.,"NH-16, near Vijayawada",Resolved,2025-11-05,D021
+SR0007,PB 10 AZ 5678,Inspection,Critical,Tyre tread check,Driver administered first aid until ambulance arrived.,"NH-66, Mangalore",In Progress,2026-03-08,D017
+SR0008,MH 06 DP 1234,Breakdown,Low,Fuel system issue,Driver reported the issue immediately and stopped the bus safely.,"NH-44, km 42",Resolved,2026-02-15,D002
+SR0009,GA 01 AX 1234,Medical,Medium,Passenger unconscious,Police informed and FIR filed. No injuries reported.,"NH-16, near Vijayawada",Resolved,2025-12-02,D029
+SR0010,PB 10 AZ 1234,Inspection,Medium,Routine safety check,Routine inspection completed. All parameters within limits.,"Ring Road, Hyderabad",Open,2025-09-26,D017
+SR0011,MH 12 FG 9012,Accident,Low,Minor collision with auto,Passengers transferred to another bus with minimal delay.,"NH-65, near Kurnool",Resolved,2025-12-06,D005
+SR0012,TN 38 BX 1234,Accident,High,Minor collision with auto,Passengers transferred to another bus with minimal delay.,Delhi-Jaipur Highway,In Progress,2025-11-23,D004
+SR0013,UP 32 FG 1234,Breakdown,Low,Tyre puncture,Issue resolved after 30 minutes with roadside assistance.,ORR km 18,In Progress,2026-02-28,D001
+SR0014,PB 10 AZ 5678,Accident,Critical,Accident at signal,Police informed and FIR filed. No injuries reported.,Chandigarh Highway,In Progress,2025-12-15,D009
+SR0015,AP 28 AY 1234,Inspection,High,Permit verification,Routine inspection completed. All parameters within limits.,Goa-Mumbai Highway,Open,2025-12-06,D010
+SR0016,PB 10 AZ 1234,Medical,High,Passenger unconscious,Issue resolved after 30 minutes with roadside assistance.,"NH-44, km 42",Open,2026-03-04,D001
+SR0017,TN 09 AX 5678,Accident,Medium,Minor collision with auto,Issue resolved after 30 minutes with roadside assistance.,Lucknow Bypass,Open,2025-09-30,D004
+SR0018,PB 10 AZ 1234,Other,Low,Flooding on route,Bus taken to depot for detailed inspection and repair.,"Outer Ring Road, Bangalore",Resolved,2025-11-06,D028
+SR0019,AP 09 Z 9012,Fire,Low,Minor fire in luggage bay,Medical help called. Passenger taken to nearest hospital.,"Highways, Coimbatore Bypass",Resolved,2025-11-08,D025
+SR0020,TN 38 BX 1234,Fire,Critical,Engine overheating warning,Bus taken to depot for detailed inspection and repair.,"NH-27, near Amritsar",Resolved,2025-11-20,D017
+SR0021,DL 01 CX 1234,Inspection,Medium,Permit verification,Routine inspection completed. All parameters within limits.,"NH-48, Tumkur Road",Resolved,2025-10-30,D022
+SR0022,RJ 14 CX 1234,Accident,Low,Minor collision with auto,Driver administered first aid until ambulance arrived.,"Outer Ring Road, Bangalore",In Progress,2025-09-25,D020
+SR0023,PB 10 AZ 5678,Inspection,Medium,Routine safety check,Routine inspection completed. All parameters within limits.,"Ring Road, Hyderabad",Resolved,2026-03-17,D026
+SR0024,TN 38 BX 1234,Breakdown,Medium,Battery dead,Bus taken to depot for detailed inspection and repair.,"NH-66, Mangalore",In Progress,2025-11-10,D003
+SR0025,KL 11 BP 1234,Other,Low,Route diversion issue,Passengers transferred to another bus with minimal delay.,"NH-65, near Kurnool",In Progress,2025-10-15,D024
+SR0026,AP 39 BZ 1234,Breakdown,Medium,Fuel system issue,Passengers were evacuated and alternate transport arranged.,"NH-44, km 42",Resolved,2026-03-03,D002
+SR0027,RJ 14 CX 1234,Medical,High,Driver health issue,Routine inspection completed. All parameters within limits.,"NH-30, Bhubaneswar Bypass",Open,2025-10-10,D021
+SR0028,AP 09 Z 9012,Breakdown,Medium,Battery dead,Police informed and FIR filed. No injuries reported.,Delhi-Jaipur Highway,Resolved,2026-03-11,D023
+SR0029,AP 39 BZ 1234,Accident,Low,Side swipe on highway,Passengers transferred to another bus with minimal delay.,"Highways, Coimbatore Bypass",Resolved,2025-10-28,D008
+SR0030,AP 39 BZ 5678,Breakdown,Medium,Battery dead,Bus taken to depot for detailed inspection and repair.,"Outer Ring Road, Bangalore",Resolved,2025-12-14,D023
+SR0031,KL 11 BP 1234,Accident,Low,Side swipe on highway,Bus taken to depot for detailed inspection and repair.,"Highways, Coimbatore Bypass",Resolved,2026-01-03,D007
+SR0032,TN 09 AX 5678,Inspection,Medium,Permit verification,Issue resolved after 30 minutes with roadside assistance.,NH-44 near Anantapur,Resolved,2026-01-16,D012
+SR0033,DL 01 CX 9012,Other,Low,Passenger dispute,Medical help called. Passenger taken to nearest hospital.,Chandigarh Highway,In Progress,2026-01-07,D023
+SR0034,KL 07 AK 5678,Accident,Medium,Rear-end collision,Routine inspection completed. All parameters within limits.,"NH-44, km 42",Resolved,2026-01-07,D019
+SR0035,DL 01 CX 5678,Medical,Medium,Passenger seizure,Passengers transferred to another bus with minimal delay.,"NH-4, near Pune",Resolved,2025-09-27,D026
+SR0036,DL 01 CX 1234,Inspection,Low,Tyre tread check,Police informed and FIR filed. No injuries reported.,Delhi-Jaipur Highway,Resolved,2026-02-07,D014
+SR0037,AP 28 AY 1234,Inspection,High,Permit verification,Police informed and FIR filed. No injuries reported.,"NH-19, UP",Open,2026-01-03,D028
+SR0038,AP 09 Z 9012,Medical,Medium,Driver health issue,Routine inspection completed. All parameters within limits.,"NH-48, near Surat",Open,2025-12-13,D020
+SR0039,DL 01 CX 9012,Accident,Low,Rear-end collision,Driver reported the issue immediately and stopped the bus safely.,ORR km 18,Open,2025-09-25,D016
+SR0040,AP 09 Z 9012,Inspection,Low,Permit verification,Issue resolved after 30 minutes with roadside assistance.,"Ring Road, Hyderabad",In Progress,2025-10-04,D011
+SR0041,KA 51 C 2345,Medical,Medium,Passenger seizure,Medical help called. Passenger taken to nearest hospital.,NH-44 near Anantapur,Resolved,2025-11-12,D024
+SR0042,WB 06 AY 1234,Other,Medium,Route diversion issue,Bus taken to depot for detailed inspection and repair.,"NH-30, Bhubaneswar Bypass",Resolved,2025-11-19,D030
+SR0043,MH 12 FG 9012,Accident,Low,Accident at signal,Bus taken to depot for detailed inspection and repair.,"NH-16, near Vijayawada",Open,2025-11-18,D018
+SR0044,PB 10 AZ 5678,Accident,High,Minor collision with auto,Issue resolved after 30 minutes with roadside assistance.,"NH-66, Mangalore",Resolved,2026-01-22,D006
+SR0045,MH 12 FG 1234,Inspection,High,Routine safety check,Medical help called. Passenger taken to nearest hospital.,"NH-27, near Amritsar",In Progress,2026-03-09,D012
+SR0046,KL 07 AK 1234,Other,Medium,Flooding on route,Bus taken to depot for detailed inspection and repair.,"NH-19, UP",Resolved,2026-02-21,D024
+SR0047,TN 09 AX 1234,Medical,Medium,Passenger seizure,Routine inspection completed. All parameters within limits.,NH-44 near Anantapur,Open,2026-02-19,D026
+SR0048,MH 12 FG 5678,Inspection,Critical,Permit verification,Medical help called. Passenger taken to nearest hospital.,"Highways, Coimbatore Bypass",Resolved,2025-11-20,D029
+SR0049,AP 39 BZ 1234,Accident,Low,Minor collision with auto,Passengers were evacuated and alternate transport arranged.,Lucknow Bypass,Resolved,2026-01-18,D007
+SR0050,KL 07 AK 1234,Other,High,Flooding on route,Routine inspection completed. All parameters within limits.,NH-44 near Anantapur,Resolved,2025-10-19,D011
+SR0051,KL 11 BP 1234,Breakdown,Critical,Fuel system issue,Driver administered first aid until ambulance arrived.,"NH-30, Bhubaneswar Bypass",Resolved,2025-12-27,D016
+SR0052,DL 01 CX 5678,Breakdown,Critical,Tyre puncture,Driver reported the issue immediately and stopped the bus safely.,"NH-44, km 42",Resolved,2026-02-12,D002
+SR0053,RJ 14 CX 1234,Breakdown,Low,Brake failure warning,Passengers transferred to another bus with minimal delay.,Goa-Mumbai Highway,In Progress,2025-11-17,D017
+SR0054,OD 02 BX 1234,Accident,High,Minor collision with auto,Passengers transferred to another bus with minimal delay.,"NH-30, Bhubaneswar Bypass",Resolved,2025-11-03,D002
+SR0055,HR 26 AZ 1234,Breakdown,Critical,Engine failure,Police informed and FIR filed. No injuries reported.,ORR km 18,Resolved,2026-02-04,D030
+SR0056,KA 51 C 2345,Fire,High,Minor fire in luggage bay,Routine inspection completed. All parameters within limits.,"NH-27, near Amritsar",Resolved,2025-09-26,D001
+SR0057,DL 01 CX 5678,Breakdown,Low,Brake failure warning,Driver reported the issue immediately and stopped the bus safely.,ORR km 18,Resolved,2026-01-17,D018
+SR0058,HR 26 AZ 1234,Other,Critical,Road blockage,Driver reported the issue immediately and stopped the bus safely.,"NH-65, near Kurnool",Resolved,2025-09-29,D026
+SR0059,TN 09 AX 5678,Other,High,Road blockage,Routine inspection completed. All parameters within limits.,"NH-4, near Pune",Resolved,2025-12-11,D026
+SR0060,TN 09 AX 5678,Accident,High,Accident at signal,Police informed and FIR filed. No injuries reported.,NH-44 near Anantapur,Resolved,2025-10-11,D009
+SR0061,GA 01 AX 1234,Other,Low,Route diversion issue,Driver administered first aid until ambulance arrived.,"NH-27, near Amritsar",Open,2026-03-16,D001
+SR0062,KL 07 AK 5678,Breakdown,Low,Tyre puncture,Police informed and FIR filed. No injuries reported.,NH-44 near Anantapur,Open,2025-10-14,D005
+SR0063,AP 28 AY 1234,Medical,High,Passenger chest pain,Bus taken to depot for detailed inspection and repair.,Lucknow Bypass,Resolved,2025-11-09,D013
+SR0064,TN 09 AX 5678,Other,Low,Road blockage,Bus taken to depot for detailed inspection and repair.,Delhi-Jaipur Highway,Open,2026-03-13,D004
+SR0065,AP 39 BZ 5678,Accident,Medium,Rear-end collision,Routine inspection completed. All parameters within limits.,ORR km 18,Resolved,2025-12-21,D015
+SR0066,AP 09 Z 9012,Other,Low,Route diversion issue,Routine inspection completed. All parameters within limits.,Lucknow Bypass,Open,2026-03-04,D013
+SR0067,MH 06 DP 1234,Fire,Low,Smoke from engine,Passengers transferred to another bus with minimal delay.,Lucknow Bypass,Resolved,2025-11-26,D014
+SR0068,OD 02 BX 1234,Medical,Low,Passenger unconscious,Medical help called. Passenger taken to nearest hospital.,"NH-4, near Pune",Resolved,2025-09-30,D010
+SR0069,MH 12 FG 1234,Accident,Medium,Minor collision with auto,Bus taken to depot for detailed inspection and repair.,"NH-19, UP",Resolved,2026-01-07,D007
+SR0070,MH 12 FG 1234,Medical,Low,Driver health issue,Routine inspection completed. All parameters within limits.,"ECR, Chennai",Resolved,2025-12-03,D001
+SR0071,AP 09 Z 9012,Fire,Medium,Engine overheating warning,Passengers transferred to another bus with minimal delay.,"NH-44, km 42",In Progress,2026-01-30,D017
+SR0072,HR 26 AZ 1234,Medical,Low,Passenger unconscious,Bus taken to depot for detailed inspection and repair.,"NH-66, Mangalore",Resolved,2025-12-14,D027
+SR0073,AP 39 BZ 1234,Fire,Low,Smoke from engine,Medical help called. Passenger taken to nearest hospital.,"NH-66, Mangalore",Resolved,2025-09-23,D001
+SR0074,DL 01 CX 5678,Medical,High,Passenger seizure,Driver administered first aid until ambulance arrived.,"NH-48, near Surat",Resolved,2025-10-04,D025
+SR0075,AP 39 BZ 1234,Fire,Low,Minor fire in luggage bay,Routine inspection completed. All parameters within limits.,"NH-27, near Amritsar",Resolved,2026-01-23,D030
+SR0076,TN 38 BX 1234,Accident,Low,Side swipe on highway,Police informed and FIR filed. No injuries reported.,Delhi-Jaipur Highway,In Progress,2025-11-11,D019
+SR0077,HR 26 AZ 1234,Accident,Medium,Accident at signal,Medical help called. Passenger taken to nearest hospital.,Lucknow Bypass,Resolved,2025-10-26,D001
+SR0078,KA 51 C 2345,Inspection,High,Tyre tread check,Medical help called. Passenger taken to nearest hospital.,"ECR, Chennai",Open,2026-02-27,D011
+SR0079,RJ 14 CX 1234,Fire,Low,Minor fire in luggage bay,Police informed and FIR filed. No injuries reported.,"Ring Road, Hyderabad",Resolved,2026-02-05,D012
+SR0080,TN 09 AX 1234,Fire,Medium,Smoke from engine,Bus taken to depot for detailed inspection and repair.,Lucknow Bypass,Resolved,2025-12-05,D026
+SR0081,AP 39 BZ 1234,Medical,Low,Passenger seizure,Medical help called. Passenger taken to nearest hospital.,"Ring Road, Hyderabad",Resolved,2026-02-25,D019
+SR0082,DL 01 CX 1234,Inspection,High,Annual fitness test,Driver reported the issue immediately and stopped the bus safely.,"NH-27, near Amritsar",Open,2026-02-19,D023
+SR0083,DL 01 CX 1234,Fire,Low,Engine overheating warning,Driver administered first aid until ambulance arrived.,"NH-65, near Kurnool",Resolved,2026-03-17,D025
+SR0084,WB 06 AY 1234,Other,Medium,Flooding on route,Driver reported the issue immediately and stopped the bus safely.,"NH-4, near Pune",Resolved,2025-11-17,D019
+SR0085,AP 09 Z 5678,Fire,Low,Engine overheating warning,Issue resolved after 30 minutes with roadside assistance.,"NH-66, Mangalore",In Progress,2026-02-25,D016
+SR0086,TN 59 AW 1234,Accident,Low,Minor collision with auto,Driver administered first aid until ambulance arrived.,"NH-27, near Amritsar",Resolved,2025-12-15,D008
+SR0087,AP 39 BZ 5678,Breakdown,Low,Brake failure warning,Bus taken to depot for detailed inspection and repair.,"NH-16, near Vijayawada",Resolved,2026-02-21,D016
+SR0088,MH 06 DP 1234,Fire,Low,Minor fire in luggage bay,Passengers were evacuated and alternate transport arranged.,"NH-19, UP",Open,2025-10-01,D005
+SR0089,MH 12 FG 5678,Accident,Low,Accident at signal,Police informed and FIR filed. No injuries reported.,"NH-48, Tumkur Road",Open,2025-11-24,D015
+SR0090,TN 38 BX 1234,Breakdown,Medium,Battery dead,Maintenance team dispatched. Issue resolved on-site.,Lucknow Bypass,In Progress,2025-11-30,D004
+SR0091,KA 51 C 6789,Inspection,Critical,Annual fitness test,Police informed and FIR filed. No injuries reported.,"Ring Road, Hyderabad",Resolved,2026-02-07,D016
+SR0092,TN 09 AX 1234,Inspection,Medium,Annual fitness test,Maintenance team dispatched. Issue resolved on-site.,ORR km 18,Resolved,2025-12-23,D029
+SR0093,DL 01 CX 1234,Inspection,Low,Permit verification,Passengers were evacuated and alternate transport arranged.,ORR km 18,Resolved,2025-12-18,D022
+SR0094,GA 01 AX 1234,Inspection,Medium,Routine safety check,Bus taken to depot for detailed inspection and repair.,"NH-48, near Surat",In Progress,2025-10-12,D026
+SR0095,MH 12 FG 9012,Breakdown,High,Engine failure,Driver administered first aid until ambulance arrived.,"NH-65, near Kurnool",In Progress,2025-12-30,D025
+SR0096,MH 12 FG 9012,Accident,Low,Minor collision with auto,Issue resolved after 30 minutes with roadside assistance.,Chandigarh Highway,Resolved,2026-03-12,D013
+SR0097,KL 11 BP 1234,Other,Low,Route diversion issue,Passengers transferred to another bus with minimal delay.,"NH-16, near Vijayawada",Resolved,2026-02-07,D003
+SR0098,RJ 14 CX 1234,Fire,Medium,Engine overheating warning,Passengers transferred to another bus with minimal delay.,"NH-65, near Kurnool",Resolved,2026-02-12,D013
+SR0099,TN 09 AX 5678,Inspection,High,Routine safety check,Issue resolved after 30 minutes with roadside assistance.,"NH-19, UP",Open,2025-11-19,D029
+SR0100,MH 12 FG 9012,Medical,Critical,Passenger seizure,Passengers transferred to another bus with minimal delay.,Delhi-Jaipur Highway,Resolved,2026-02-16,D017

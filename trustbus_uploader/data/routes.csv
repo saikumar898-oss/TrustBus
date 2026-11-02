@@ -1,0 +1,37 @@
+routeId,from,to,distanceKm,duration,region,minPrice,maxPrice,active
+RT001,Hyderabad,Bangalore,570,~10h,South,850,1200,True
+RT002,Hyderabad,Chennai,625,~8h 30m,South,800,1000,True
+RT003,Hyderabad,Mumbai,710,~12h,Cross,1050,1300,True
+RT004,Hyderabad,Vijayawada,275,~5h 30m,South,580,750,True
+RT005,Hyderabad,Visakhapatnam,625,~11h 30m,South,820,1050,True
+RT006,Hyderabad,Tirupati,560,~9h,South,660,800,True
+RT007,Hyderabad,Nagpur,490,~9h,Cross,850,1000,True
+RT008,Hyderabad,Pune,560,~10h,Cross,880,1100,True
+RT009,Bangalore,Chennai,345,~7h 30m,South,750,900,True
+RT010,Bangalore,Mysore,145,~3h 30m,South,300,400,True
+RT011,Bangalore,Mangalore,350,~8h,South,820,970,True
+RT012,Bangalore,Mumbai,980,~13h,Cross,1000,1200,True
+RT013,Bangalore,Pune,840,~12h,Cross,980,1200,True
+RT014,Bangalore,Thiruvananthapuram,640,~11h 30m,South,960,1150,True
+RT015,Chennai,Coimbatore,490,~7h 30m,South,680,800,True
+RT016,Chennai,Madurai,455,~7h 30m,South,660,780,True
+RT017,Kochi,Thiruvananthapuram,210,~4h 30m,South,380,460,True
+RT018,Kochi,Coimbatore,185,~4h 15m,South,430,510,True
+RT019,Kochi,Kozhikode,210,~3h 30m,South,260,320,True
+RT020,Vijayawada,Visakhapatnam,350,~8h,South,680,800,True
+RT021,Mumbai,Pune,148,~3h 30m,West,220,500,True
+RT022,Mumbai,Goa,590,~10h 30m,West,880,1050,True
+RT023,Mumbai,Nagpur,830,~12h,West,820,1010,True
+RT024,Mumbai,Ahmedabad,530,~9h,West,750,850,True
+RT025,Pune,Goa,456,~10h,West,810,980,True
+RT026,Delhi,Jaipur,280,~5h 30m,North,530,700,True
+RT027,Delhi,Chandigarh,248,~5h,North,400,550,True
+RT028,Delhi,Lucknow,555,~10h,North,630,800,True
+RT029,Delhi,Agra,200,~4h 30m,North,390,550,True
+RT030,Delhi,Amritsar,455,~8h 30m,North,640,800,True
+RT031,Delhi,Dehradun,295,~5h 30m,North,440,580,True
+RT032,Delhi,Mumbai,1415,~20h,Cross,1250,1620,True
+RT033,Kolkata,Bhubaneswar,440,~9h,East,650,800,True
+RT034,Kolkata,Patna,580,~11h,East,700,900,True
+RT035,Kolkata,Hyderabad,1490,~22h,Cross,1380,1700,True
+RT036,Kolkata,Chennai,1660,~24h,Cross,1460,1750,True

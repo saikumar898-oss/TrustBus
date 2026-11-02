@@ -1,0 +1,81 @@
+reviewId,bookingId,userId,busName,from,to,rating,comment,reviewDate,helpful
+R0001,BK0104,U008,VRL Travels,Pune,Tirupati,5,Bus was clean and on time. Driver was professional.,2026-03-11,true
+R0002,BK0098,U018,IntrCity Smart,Chennai,Kochi,4,Water bottles provided. Nice touch for long journeys.,2026-03-08,false
+R0003,BK0052,U019,KPN Travels,Kochi,Chandigarh,5,"Driver was rash, felt unsafe at times. Not recommended.",2026-03-30,false
+R0004,BK0154,U012,Zingbus,Bangalore,Coimbatore,5,Charging points were broken. Everything else fine.,2026-03-03,true
+R0005,BK0046,U010,KPN Travels,Bangalore,Mumbai,3,Punctual and well-maintained. 5 stars!,2026-03-21,true
+R0006,BK0059,U025,VRL Travels,Pune,Madurai,5,Very professional service. Highly recommended.,2026-03-01,true
+R0007,BK0064,U022,KSRTC Airavat,Madurai,Bangalore,2,"Driver was rash, felt unsafe at times. Not recommended.",2026-02-25,false
+R0008,BK0035,U023,IntrCity Smart,Tirupati,Bangalore,3,Great experience! Will definitely book again.,2026-03-06,false
+R0009,BK0023,U021,Zingbus,Pune,Vijayawada,3,Bus was delayed by 45 minutes. No communication given.,2026-01-24,false
+R0010,BK0065,U008,KSRTC Airavat,Visakhapatnam,Chandigarh,5,"Clean bus, friendly staff, good value for money.",2026-02-25,false
+R0011,BK0187,U004,Orange Travels,Coimbatore,Delhi,3,Staff was very helpful and courteous throughout.,2026-02-10,true
+R0012,BK0099,U018,VRL Travels,Madurai,Tirupati,5,"Smooth ride, no issues at all. Will book again.",2026-03-12,false
+R0013,BK0136,U023,Orange Travels,Delhi,Lucknow,1,Bus was clean and on time. Driver was professional.,2026-03-17,false
+R0014,BK0176,U015,Zingbus,Jaipur,Chandigarh,3,Bus broke down midway. Poor maintenance.,2026-02-03,false
+R0015,BK0180,U006,TSRTC Super Luxury,Jaipur,Delhi,5,Bus broke down midway. Poor maintenance.,2026-01-24,false
+R0016,BK0138,U003,TSRTC Super Luxury,Madurai,Bangalore,4,Staff was very helpful and courteous throughout.,2026-02-24,true
+R0017,BK0192,U019,Zingbus,Bangalore,Kochi,3,Bus was clean and on time. Driver was professional.,2026-02-12,false
+R0018,BK0160,U004,Kallada Travels,Coimbatore,Chandigarh,5,Bus broke down midway. Poor maintenance.,2026-02-19,false
+R0019,BK0126,U023,VRL Travels,Tirupati,Delhi,3,"Clean bus, friendly staff, good value for money.",2026-03-15,false
+R0020,BK0198,U016,KPN Travels,Chandigarh,Chennai,3,WiFi was not working. Otherwise good service.,2026-02-23,true
+R0021,BK0108,U005,KSRTC Airavat,Bangalore,Hyderabad,5,"Clean bus, friendly staff, good value for money.",2026-02-09,false
+R0022,BK0157,U009,KSRTC Airavat,Visakhapatnam,Pune,4,Good journey overall but AC was not working properly.,2026-04-03,false
+R0023,BK0151,U013,Zingbus,Delhi,Mumbai,4,Seats were uncomfortable for a long journey.,2026-03-15,true
+R0024,BK0056,U005,SRS Travels,Madurai,Visakhapatnam,4,WiFi was not working. Otherwise good service.,2026-02-11,false
+R0025,BK0096,U021,IntrCity Smart,Jaipur,Vijayawada,4,Seats were uncomfortable for a long journey.,2026-02-13,false
+R0026,BK0100,U025,Zingbus,Madurai,Chennai,5,Very professional service. Highly recommended.,2026-03-26,true
+R0027,BK0055,U024,Orange Travels,Kochi,Mumbai,4,Punctual and well-maintained. 5 stars!,2026-03-18,false
+R0028,BK0039,U023,SRS Travels,Tirupati,Visakhapatnam,3,WiFi was not working. Otherwise good service.,2026-03-22,true
+R0029,BK0119,U008,KPN Travels,Visakhapatnam,Lucknow,4,Staff was very helpful and courteous throughout.,2026-03-29,false
+R0030,BK0170,U015,IntrCity Smart,Jaipur,Bangalore,5,Bus was delayed by 45 minutes. No communication given.,2026-04-01,true
+R0031,BK0196,U014,Paulo Travels,Chandigarh,Mumbai,5,Seats were uncomfortable for a long journey.,2026-01-29,false
+R0032,BK0146,U003,Orange Travels,Kochi,Visakhapatnam,5,"Clean bus, friendly staff, good value for money.",2026-03-05,false
+R0033,BK0087,U011,Orange Travels,Tirupati,Hyderabad,5,Staff was very helpful and courteous throughout.,2026-01-25,false
+R0034,BK0022,U023,Orange Travels,Vijayawada,Lucknow,1,"Smooth ride, no issues at all. Will book again.",2026-02-18,true
+R0035,BK0188,U014,Zingbus,Visakhapatnam,Mumbai,1,"Amazing journey, arrived before scheduled time!",2026-02-20,true
+R0036,BK0184,U006,TSRTC Super Luxury,Kochi,Chennai,4,Food at the stop was good. Journey was comfortable.,2026-02-13,true
+R0037,BK0121,U002,Orange Travels,Chennai,Kochi,4,Very professional service. Highly recommended.,2026-03-14,false
+R0038,BK0081,U011,KPN Travels,Lucknow,Jaipur,4,Punctual and well-maintained. 5 stars!,2026-01-29,false
+R0039,BK0200,U017,KPN Travels,Kochi,Madurai,3,"Excellent service, very punctual and comfortable!",2026-01-21,true
+R0040,BK0011,U018,SRS Travels,Lucknow,Mumbai,5,Good journey overall but AC was not working properly.,2026-03-18,true
+R0041,BK0069,U014,Orange Travels,Chandigarh,Visakhapatnam,5,Very professional service. Highly recommended.,2026-04-16,false
+R0042,BK0143,U023,Orange Travels,Kochi,Chandigarh,4,Water bottles provided. Nice touch for long journeys.,2026-04-12,false
+R0043,BK0002,U007,Zingbus,Hyderabad,Kochi,3,Comfortable seats and smooth ride throughout.,2026-04-06,false
+R0044,BK0109,U011,Orange Travels,Hyderabad,Visakhapatnam,4,Great experience! Will definitely book again.,2026-04-19,false
+R0045,BK0053,U013,Kallada Travels,Goa,Madurai,4,"Driver was rash, felt unsafe at times. Not recommended.",2026-02-06,true
+R0046,BK0093,U017,IntrCity Smart,Goa,Vijayawada,5,Bus broke down midway. Poor maintenance.,2026-03-17,false
+R0047,BK0137,U015,Paulo Travels,Pune,Lucknow,4,Great experience! Will definitely book again.,2026-03-17,false
+R0048,BK0021,U012,SRS Travels,Bangalore,Goa,4,Seats were uncomfortable for a long journey.,2026-04-02,false
+R0049,BK0172,U024,IntrCity Smart,Jaipur,Chandigarh,4,Bus broke down midway. Poor maintenance.,2026-03-15,true
+R0050,BK0133,U012,Kallada Travels,Jaipur,Bangalore,5,Charging points were broken. Everything else fine.,2026-04-20,false
+R0051,BK0051,U016,Paulo Travels,Pune,Visakhapatnam,5,Good journey overall but AC was not working properly.,2026-03-11,true
+R0052,BK0152,U024,Paulo Travels,Chandigarh,Kochi,5,"Smooth ride, no issues at all. Will book again.",2026-02-24,true
+R0053,BK0014,U015,SRS Travels,Vijayawada,Delhi,3,Charging points were broken. Everything else fine.,2026-01-27,true
+R0054,BK0092,U025,TSRTC Super Luxury,Madurai,Chandigarh,4,"Excellent service, very punctual and comfortable!",2026-03-09,false
+R0055,BK0034,U007,Paulo Travels,Mumbai,Coimbatore,5,Bus was overcrowded. Uncomfortable experience.,2026-04-08,false
+R0056,BK0177,U021,Paulo Travels,Chennai,Delhi,4,Great experience! Will definitely book again.,2026-02-05,true
+R0057,BK0042,U016,Paulo Travels,Kochi,Tirupati,4,Bus was clean and on time. Driver was professional.,2026-02-22,false
+R0058,BK0114,U018,VRL Travels,Delhi,Hyderabad,1,WiFi was not working. Otherwise good service.,2026-03-23,true
+R0059,BK0171,U025,SRS Travels,Goa,Jaipur,4,"Amazing journey, arrived before scheduled time!",2026-03-14,true
+R0060,BK0129,U004,Paulo Travels,Goa,Tirupati,5,Bus was clean and on time. Driver was professional.,2026-03-02,false
+R0061,BK0142,U013,IntrCity Smart,Tirupati,Vijayawada,3,Bus was delayed by 45 minutes. No communication given.,2026-04-03,true
+R0062,BK0010,U012,IntrCity Smart,Hyderabad,Chennai,4,Seats were uncomfortable for a long journey.,2026-04-03,false
+R0063,BK0029,U008,IntrCity Smart,Goa,Coimbatore,5,Good journey overall but AC was not working properly.,2026-02-20,true
+R0064,BK0006,U011,Kallada Travels,Bangalore,Lucknow,5,Great experience! Will definitely book again.,2026-04-03,false
+R0065,BK0044,U024,Orange Travels,Bangalore,Coimbatore,5,Water bottles provided. Nice touch for long journeys.,2026-02-23,true
+R0066,BK0122,U006,Zingbus,Madurai,Bangalore,5,Comfortable seats and smooth ride throughout.,2026-02-18,true
+R0067,BK0186,U001,TSRTC Super Luxury,Mumbai,Jaipur,5,"Driver was rash, felt unsafe at times. Not recommended.",2026-02-11,true
+R0068,BK0153,U004,SRS Travels,Visakhapatnam,Tirupati,1,"Smooth ride, no issues at all. Will book again.",2026-02-23,false
+R0069,BK0179,U007,Zingbus,Delhi,Tirupati,3,"Clean bus, friendly staff, good value for money.",2026-03-10,true
+R0070,BK0165,U023,Kallada Travels,Lucknow,Visakhapatnam,4,Bus was clean and on time. Driver was professional.,2026-02-25,false
+R0071,BK0037,U015,KPN Travels,Tirupati,Lucknow,5,Very professional service. Highly recommended.,2026-03-25,true
+R0072,BK0080,U005,TSRTC Super Luxury,Goa,Pune,4,Comfortable seats and smooth ride throughout.,2026-01-31,true
+R0073,BK0158,U015,TSRTC Super Luxury,Vijayawada,Pune,4,"Smooth ride, no issues at all. Will book again.",2026-04-14,true
+R0074,BK0049,U011,IntrCity Smart,Chandigarh,Bangalore,3,Comfortable seats and smooth ride throughout.,2026-03-27,true
+R0075,BK0043,U019,IntrCity Smart,Delhi,Lucknow,4,Punctual and well-maintained. 5 stars!,2026-04-02,true
+R0076,BK0018,U018,SRS Travels,Mumbai,Bangalore,5,Great experience! Will definitely book again.,2026-01-29,true
+R0077,BK0067,U017,SRS Travels,Mumbai,Pune,5,Staff was very helpful and courteous throughout.,2026-03-20,false
+R0078,BK0181,U018,TSRTC Super Luxury,Tirupati,Delhi,4,Bus was clean and on time. Driver was professional.,2026-03-07,false
+R0079,BK0026,U022,SRS Travels,Chandigarh,Tirupati,1,Great experience! Will definitely book again.,2026-02-26,true
+R0080,BK0116,U015,IntrCity Smart,Vijayawada,Jaipur,5,"Amazing journey, arrived before scheduled time!",2026-02-27,false

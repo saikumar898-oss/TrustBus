@@ -1,0 +1,31 @@
+busId,busNumber,route,status,capacity,driverName,operator,regDate,permitExpiry,licenseNo,city
+B001,AP 09 Z 1234,Route A - City Center,Active,52,Ravi Kumar,TSRTC,2018-03-10,2025-03-09,AP1234567890,Hyderabad
+B002,AP 09 Z 5678,Route B - Airport,Inactive,40,Suresh Babu,TSRTC,2016-07-22,2023-07-21,AP0987654321,Hyderabad
+B003,AP 09 Z 9012,Route C - HITEC City,Maintenance,45,Manoj Singh,TSRTC,2019-11-05,2026-11-04,AP1122334455,Hyderabad
+B004,KA 51 C 2345,Route D - Whitefield,Active,50,Venkat Rao,KSRTC,2017-04-18,2024-04-17,KA0012345678,Bangalore
+B005,KA 51 C 6789,Route E - Electronic City,Active,48,Prasad Kumar,KSRTC,2020-08-30,2027-08-29,KA0087654321,Bangalore
+B006,TN 09 AX 1234,Route F - T Nagar,Active,52,Murugan S,TNSTC,2018-02-14,2025-02-13,TN0011223344,Chennai
+B007,TN 09 AX 5678,Route G - Anna Nagar,Inactive,40,Selvam K,TNSTC,2015-06-20,2022-06-19,TN0099887766,Chennai
+B008,KL 07 AK 1234,Route H - MG Road,Active,44,Biju Thomas,Kerala RTC,2019-09-12,2026-09-11,KL0012341234,Kochi
+B009,KL 07 AK 5678,Route I - Marine Drive,Maintenance,36,Santhosh PK,Kerala RTC,2021-03-28,2028-03-27,KL0098769876,Kochi
+B010,MH 12 FG 1234,Route J - Dadar,Active,55,Anand Mishra,MSRTC,2017-01-15,2024-01-14,MH0011112222,Mumbai
+B011,MH 12 FG 5678,Route K - Bandra,Active,50,Prakash Joshi,MSRTC,2018-07-04,2025-07-03,MH0033334444,Mumbai
+B012,MH 12 FG 9012,Route L - Pune Station,Maintenance,45,Dilip Patil,MSRTC,2016-11-22,2023-11-21,MH0055556666,Pune
+B013,DL 01 CX 1234,Route M - Connaught Place,Active,52,Shyam Lal,UPSRTC,2018-05-10,2025-05-09,DL0011112222,Delhi
+B014,DL 01 CX 5678,Route N - Dwarka,Active,48,Ram Singh,UPSRTC,2019-03-22,2026-03-21,DL0033334444,Delhi
+B015,DL 01 CX 9012,Route O - Rohini,Inactive,40,Mohit Yadav,UPSRTC,2022-09-05,2029-09-04,DL0055556666,Delhi
+B016,PB 10 AZ 1234,Route P - Golden Temple,Active,50,Gurpreet Singh,PRTC,2016-02-18,2023-02-17,PB0011112222,Amritsar
+B017,PB 10 AZ 5678,Route Q - Sector 17,Active,44,Harjinder Kaur,HRTC,2019-06-30,2026-06-29,PB0033334444,Chandigarh
+B018,AP 39 BZ 1234,Route R - Kanaka Durga Temple,Active,52,Naresh Babu,APSRTC,2017-08-14,2024-08-13,AP5566778899,Vijayawada
+B019,AP 39 BZ 5678,Route S - Srisailam Highway,Active,48,Tirupati Reddy,APSRTC,2020-04-25,2027-04-24,AP6677889900,Tirupati
+B020,AP 28 AY 1234,Route T - Beach Road,Active,50,Srinivas Rao,APSRTC,2018-10-08,2025-10-07,AP7788990011,Visakhapatnam
+B021,KL 11 BP 1234,Route U - Kovalam,Active,40,Arun Pillai,Kerala RTC,2020-01-20,2027-01-19,KL0112233445,Thiruvananthapuram
+B022,TN 38 BX 1234,Route V - RS Puram,Active,48,Balamurugan R,TNSTC,2017-05-12,2024-05-11,TN1122334455,Coimbatore
+B023,TN 59 AW 1234,Route W - Meenakshi Temple,Maintenance,44,Kannan M,TNSTC,2019-09-28,2026-09-27,TN2233445566,Madurai
+B024,MH 06 DP 1234,Route X - Panjim,Active,36,Sudhir Gawade,Kadamba,2021-12-15,2028-12-14,MH1122334455,Goa
+B025,GA 01 AX 1234,Route Y - Calangute,Active,40,Rajan Sawant,Kadamba,2020-07-08,2027-07-07,GA0011223344,Goa
+B026,RJ 14 CX 1234,Route Z - Pink City,Active,52,Vinod Kumar,RSRTC,2016-09-20,2023-09-19,RJ0011223344,Jaipur
+B027,UP 32 FG 1234,Route AA - Hazratganj,Active,48,Mahesh Gupta,UPSRTC,2017-03-14,2024-03-13,UP0011223344,Lucknow
+B028,HR 26 AZ 1234,Route AB - Sector 43,Maintenance,44,Deepak Sharma,HRTC,2019-11-30,2026-11-29,HR0011223344,Chandigarh
+B029,OD 02 BX 1234,Route AC - Ekamra Haat,Active,50,Santosh Jena,OSRTC,2018-06-18,2025-06-17,OD0011223344,Bhubaneswar
+B030,WB 06 AY 1234,Route AD - Howrah Bridge,Active,52,Bikash Das,OSRTC,2017-08-05,2024-08-04,WB0011223344,Kolkata

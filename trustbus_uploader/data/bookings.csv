@@ -1,0 +1,201 @@
+bookingId,pnr,userId,busName,from,to,travelDate,bookingDate,departureTime,arrivalTime,busType,pricePerSeat,seatsBooked,seatNumbers,totalAmount,status
+BK0001,TB629903,U024,IntrCity Smart,Mumbai,Hyderabad,2026-02-03,2026-01-23,23:00,11:00,AC Seater,707,2,"A2,D4",1414,completed
+BK0002,TB988662,U007,Zingbus,Hyderabad,Kochi,2026-04-06,2026-04-01,06:15,20:15,Sleeper,701,4,"C4,F2,B7,B6",2804,pending
+BK0003,TB838797,U009,TSRTC Super Luxury,Madurai,Kochi,2026-03-10,2026-03-08,23:30,12:30,Sleeper,1348,1,F4,1348,completed
+BK0004,TB802729,U022,SRS Travels,Chennai,Hyderabad,2026-02-02,2026-01-26,14:45,03:45,Non AC Sleeper,413,2,"C6,F4",826,cancelled
+BK0005,TB961722,U022,Orange Travels,Pune,Jaipur,2026-02-10,2026-02-02,18:30,07:30,AC Seater,1343,2,"D6,A4",2686,completed
+BK0006,TB881177,U011,Kallada Travels,Bangalore,Lucknow,2026-04-03,2026-03-22,16:15,05:15,Non AC Sleeper,385,2,"C5,C4",770,pending
+BK0007,TB503457,U019,Kallada Travels,Pune,Jaipur,2026-02-07,2026-01-29,21:00,00:00,Sleeper,991,2,"C3,G2",1982,cancelled
+BK0008,TB575763,U015,Zingbus,Jaipur,Kochi,2026-04-18,2026-04-06,09:30,22:30,Non AC Sleeper,1383,1,G3,1383,pending
+BK0009,TB612340,U024,IntrCity Smart,Hyderabad,Jaipur,2026-04-11,2026-04-06,22:15,03:15,AC Seater,1289,1,A6,1289,confirmed
+BK0010,TB653306,U012,IntrCity Smart,Hyderabad,Chennai,2026-04-03,2026-04-01,08:45,12:45,AC Seater,368,2,"C8,C5",736,confirmed
+BK0011,TB842225,U018,SRS Travels,Lucknow,Mumbai,2026-03-18,2026-03-09,20:00,02:00,Non AC Sleeper,1067,3,"F1,D4,A2",3201,confirmed
+BK0012,TB299659,U003,TSRTC Super Luxury,Bangalore,Delhi,2026-02-25,2026-02-14,21:15,08:15,Non AC Sleeper,395,2,"H4,H7",790,confirmed
+BK0013,TB542374,U022,Kallada Travels,Mumbai,Bangalore,2026-03-21,2026-03-07,07:00,10:00,Non AC Sleeper,1117,4,"F2,D4,D9,H3",4468,completed
+BK0014,TB526156,U015,SRS Travels,Vijayawada,Delhi,2026-01-27,2026-01-16,23:00,03:00,AC Sleeper,1157,1,D3,1157,pending
+BK0015,TB159942,U007,Kallada Travels,Goa,Tirupati,2026-01-21,2026-01-14,14:45,21:45,AC Sleeper,587,4,"H3,D5,D1,A6",2348,completed
+BK0016,TB749468,U016,Zingbus,Bangalore,Coimbatore,2026-02-13,2026-02-11,08:15,17:15,AC Seater,366,1,D1,366,confirmed
+BK0017,TB580547,U022,KPN Travels,Chennai,Tirupati,2026-04-16,2026-04-04,16:15,23:15,Non AC Sleeper,784,2,"H6,B1",1568,pending
+BK0018,TB240814,U018,SRS Travels,Mumbai,Bangalore,2026-01-29,2026-01-25,17:30,22:30,Non AC Sleeper,521,3,"E9,A9,E2",1563,completed
+BK0019,TB146228,U004,Zingbus,Pune,Bangalore,2026-04-08,2026-04-04,16:15,05:15,AC Seater,807,3,"H5,A2,G5",2421,pending
+BK0020,TB934794,U025,VRL Travels,Hyderabad,Visakhapatnam,2026-04-01,2026-03-20,19:00,23:00,Non AC Sleeper,580,4,"A6,C7,C1,E6",2320,confirmed
+BK0021,TB379766,U012,SRS Travels,Bangalore,Goa,2026-04-02,2026-03-19,19:15,01:15,AC Seater,460,3,"G1,C6,G4",1380,confirmed
+BK0022,TB910891,U023,Orange Travels,Vijayawada,Lucknow,2026-02-18,2026-02-14,20:30,03:30,Sleeper,329,4,"D4,A4,G6,E2",1316,cancelled
+BK0023,TB557592,U021,Zingbus,Pune,Vijayawada,2026-01-24,2026-01-22,14:15,02:15,Sleeper,1348,3,"E1,B7,F6",4044,pending
+BK0024,TB831076,U019,SRS Travels,Mumbai,Tirupati,2026-01-21,2026-01-12,23:15,07:15,Non AC Sleeper,340,4,"F6,B5,E7,F7",1360,completed
+BK0025,TB587575,U005,SRS Travels,Kochi,Pune,2026-04-09,2026-03-30,15:45,02:45,Sleeper,1026,2,"E4,G6",2052,pending
+BK0026,TB254511,U022,SRS Travels,Chandigarh,Tirupati,2026-02-26,2026-02-17,16:00,22:00,Sleeper,597,1,D4,597,completed
+BK0027,TB684482,U008,Paulo Travels,Hyderabad,Bangalore,2026-04-11,2026-04-01,12:45,22:45,AC Sleeper,1182,4,"A2,G4,C9,H1",4728,confirmed
+BK0028,TB903013,U004,Paulo Travels,Tirupati,Goa,2026-03-18,2026-03-08,22:45,09:45,AC Seater,1201,3,"C8,H5,D5",3603,completed
+BK0029,TB535020,U008,IntrCity Smart,Goa,Coimbatore,2026-02-20,2026-02-15,16:30,03:30,Sleeper,408,3,"C4,G3,D2",1224,confirmed
+BK0030,TB664365,U018,Paulo Travels,Lucknow,Vijayawada,2026-03-15,2026-03-08,06:45,16:45,Sleeper,377,2,"F5,G7",754,confirmed
+BK0031,TB720644,U008,IntrCity Smart,Tirupati,Pune,2026-03-11,2026-03-05,18:15,04:15,Sleeper,1244,1,A7,1244,pending
+BK0032,TB364525,U021,Kallada Travels,Hyderabad,Chennai,2026-01-27,2026-01-22,18:30,00:30,AC Seater,1195,2,"F7,E7",2390,completed
+BK0033,TB801978,U001,Zingbus,Chennai,Pune,2026-04-14,2026-04-12,07:00,13:00,AC Sleeper,966,2,"C4,C8",1932,confirmed
+BK0034,TB179688,U007,Paulo Travels,Mumbai,Coimbatore,2026-04-08,2026-03-29,09:15,16:15,Non AC Sleeper,1005,2,"E7,G4",2010,confirmed
+BK0035,TB990844,U023,IntrCity Smart,Tirupati,Bangalore,2026-03-06,2026-02-25,19:30,23:30,AC Sleeper,1409,1,F1,1409,completed
+BK0036,TB572700,U016,Orange Travels,Lucknow,Chandigarh,2026-04-21,2026-04-18,19:15,09:15,Sleeper,991,4,"H8,G5,F4,B5",3964,pending
+BK0037,TB725113,U015,KPN Travels,Tirupati,Lucknow,2026-03-25,2026-03-11,16:15,02:15,Sleeper,938,1,F5,938,pending
+BK0038,TB408528,U001,Zingbus,Pune,Kochi,2026-03-14,2026-03-06,23:15,13:15,AC Seater,425,2,"H8,A2",850,completed
+BK0039,TB341736,U023,SRS Travels,Tirupati,Visakhapatnam,2026-03-22,2026-03-13,22:30,07:30,Non AC Sleeper,1441,3,"F6,H5,E5",4323,pending
+BK0040,TB338533,U007,KSRTC Airavat,Mumbai,Jaipur,2026-02-14,2026-02-10,21:30,11:30,AC Sleeper,1347,2,"E2,D5",2694,completed
+BK0041,TB112861,U010,TSRTC Super Luxury,Madurai,Chennai,2026-01-27,2026-01-18,15:15,04:15,AC Seater,811,1,H2,811,cancelled
+BK0042,TB259097,U016,Paulo Travels,Kochi,Tirupati,2026-02-22,2026-02-08,21:00,01:00,Non AC Sleeper,627,1,B1,627,completed
+BK0043,TB420214,U019,IntrCity Smart,Delhi,Lucknow,2026-04-02,2026-03-20,19:15,06:15,AC Sleeper,758,1,E7,758,pending
+BK0044,TB572387,U024,Orange Travels,Bangalore,Coimbatore,2026-02-23,2026-02-12,08:15,14:15,AC Seater,1531,2,"B3,A7",3062,confirmed
+BK0045,TB174878,U002,SRS Travels,Goa,Delhi,2026-01-30,2026-01-19,13:30,02:30,Non AC Sleeper,829,4,"D7,B9,D3,E3",3316,completed
+BK0046,TB184349,U010,KPN Travels,Bangalore,Mumbai,2026-03-21,2026-03-09,15:45,22:45,Non AC Sleeper,1149,1,H8,1149,completed
+BK0047,TB644173,U014,KSRTC Airavat,Bangalore,Goa,2026-02-19,2026-02-08,06:30,18:30,Non AC Sleeper,302,1,C8,302,confirmed
+BK0048,TB138479,U009,VRL Travels,Chandigarh,Goa,2026-02-01,2026-01-24,17:45,01:45,Sleeper,1550,4,"B3,F7,H5,G9",6200,completed
+BK0049,TB559398,U011,IntrCity Smart,Chandigarh,Bangalore,2026-03-27,2026-03-13,06:45,15:45,Non AC Sleeper,487,4,"H8,A4,E9,C5",1948,pending
+BK0050,TB839677,U001,KPN Travels,Goa,Bangalore,2026-04-01,2026-03-31,23:45,03:45,AC Seater,574,3,"H2,C8,E9",1722,confirmed
+BK0051,TB396578,U016,Paulo Travels,Pune,Visakhapatnam,2026-03-11,2026-03-07,22:15,02:15,AC Seater,1185,2,"G6,E1",2370,confirmed
+BK0052,TB433632,U019,KPN Travels,Kochi,Chandigarh,2026-03-30,2026-03-22,17:30,04:30,Sleeper,554,4,"H6,D4,G4,G1",2216,pending
+BK0053,TB857537,U013,Kallada Travels,Goa,Madurai,2026-02-06,2026-01-28,16:00,02:00,AC Seater,1264,1,H1,1264,confirmed
+BK0054,TB346174,U021,VRL Travels,Delhi,Tirupati,2026-03-05,2026-02-23,18:00,02:00,AC Sleeper,1211,3,"G6,H9,A2",3633,cancelled
+BK0055,TB475876,U024,Orange Travels,Kochi,Mumbai,2026-03-18,2026-03-15,15:00,18:00,Sleeper,451,1,A5,451,completed
+BK0056,TB768891,U005,SRS Travels,Madurai,Visakhapatnam,2026-02-11,2026-02-08,08:45,20:45,Sleeper,1409,2,"H3,D8",2818,completed
+BK0057,TB503380,U009,TSRTC Super Luxury,Pune,Tirupati,2026-01-30,2026-01-22,17:30,06:30,Sleeper,839,2,"E8,E4",1678,pending
+BK0058,TB751051,U008,Kallada Travels,Goa,Bangalore,2026-04-20,2026-04-15,06:45,13:45,Non AC Sleeper,1427,3,"H5,D6,D4",4281,confirmed
+BK0059,TB409445,U025,VRL Travels,Pune,Madurai,2026-03-01,2026-02-16,20:00,08:00,AC Sleeper,1535,1,C2,1535,completed
+BK0060,TB890785,U014,VRL Travels,Coimbatore,Jaipur,2026-03-29,2026-03-20,14:15,21:15,AC Seater,520,3,"E6,B8,B3",1560,pending
+BK0061,TB443939,U022,Kallada Travels,Tirupati,Chandigarh,2026-01-22,2026-01-17,23:00,09:00,Non AC Sleeper,434,4,"E7,F2,D8,A9",1736,completed
+BK0062,TB803055,U003,Paulo Travels,Tirupati,Madurai,2026-02-04,2026-02-01,07:00,14:00,Non AC Sleeper,1579,4,"B2,D9,C7,H6",6316,pending
+BK0063,TB347582,U024,VRL Travels,Lucknow,Kochi,2026-03-24,2026-03-14,19:30,22:30,Sleeper,1591,1,H8,1591,confirmed
+BK0064,TB317220,U022,KSRTC Airavat,Madurai,Bangalore,2026-02-25,2026-02-21,09:45,13:45,Non AC Sleeper,374,4,"A1,F4,C4,B9",1496,completed
+BK0065,TB793169,U008,KSRTC Airavat,Visakhapatnam,Chandigarh,2026-02-25,2026-02-11,10:15,21:15,AC Seater,1470,1,C2,1470,confirmed
+BK0066,TB722503,U001,KSRTC Airavat,Hyderabad,Mumbai,2026-01-23,2026-01-20,14:00,19:00,AC Seater,1455,3,"B2,H8,F9",4365,cancelled
+BK0067,TB437758,U017,SRS Travels,Mumbai,Pune,2026-03-20,2026-03-09,06:00,16:00,AC Sleeper,1599,3,"G2,H8,B2",4797,cancelled
+BK0068,TB967611,U005,IntrCity Smart,Delhi,Bangalore,2026-03-20,2026-03-11,19:00,09:00,Non AC Sleeper,1030,3,"D7,H4,G6",3090,confirmed
+BK0069,TB951201,U014,Orange Travels,Chandigarh,Visakhapatnam,2026-04-16,2026-04-11,17:15,06:15,Non AC Sleeper,1124,3,"B2,B7,B6",3372,confirmed
+BK0070,TB986438,U002,KPN Travels,Delhi,Kochi,2026-03-07,2026-02-21,19:00,02:00,Non AC Sleeper,500,4,"F2,D3,H4,B6",2000,completed
+BK0071,TB106402,U025,IntrCity Smart,Madurai,Bangalore,2026-04-08,2026-03-28,14:00,19:00,AC Seater,1128,1,F6,1128,pending
+BK0072,TB914571,U005,KPN Travels,Vijayawada,Chandigarh,2026-04-12,2026-04-11,08:15,17:15,Sleeper,392,2,"C6,E6",784,pending
+BK0073,TB326040,U002,VRL Travels,Chennai,Goa,2026-04-17,2026-04-15,14:45,03:45,AC Seater,1515,1,G5,1515,pending
+BK0074,TB225812,U014,Orange Travels,Mumbai,Visakhapatnam,2026-03-29,2026-03-18,15:00,21:00,Non AC Sleeper,1464,4,"A4,E4,C5,E6",5856,confirmed
+BK0075,TB403578,U024,Kallada Travels,Hyderabad,Pune,2026-03-30,2026-03-18,13:30,17:30,AC Seater,514,4,"G1,H2,F7,G7",2056,confirmed
+BK0076,TB635280,U001,KSRTC Airavat,Mumbai,Tirupati,2026-04-19,2026-04-13,08:45,12:45,AC Seater,1515,4,"B7,E6,D6,C2",6060,pending
+BK0077,TB586490,U017,SRS Travels,Mumbai,Kochi,2026-02-20,2026-02-18,10:30,16:30,Non AC Sleeper,969,2,"C2,C8",1938,confirmed
+BK0078,TB584172,U019,KPN Travels,Chandigarh,Coimbatore,2026-02-09,2026-02-01,08:45,18:45,Non AC Sleeper,1534,3,"E1,F9,B5",4602,completed
+BK0079,TB437145,U002,KSRTC Airavat,Chandigarh,Hyderabad,2026-04-09,2026-03-30,22:45,08:45,Non AC Sleeper,407,1,H4,407,confirmed
+BK0080,TB506235,U005,TSRTC Super Luxury,Goa,Pune,2026-01-31,2026-01-22,11:00,17:00,Sleeper,461,3,"H9,C6,F5",1383,cancelled
+BK0081,TB787923,U011,KPN Travels,Lucknow,Jaipur,2026-01-29,2026-01-23,09:45,16:45,AC Sleeper,1542,3,"C6,B3,F5",4626,confirmed
+BK0082,TB458332,U020,Orange Travels,Jaipur,Chennai,2026-04-13,2026-03-31,16:15,05:15,Non AC Sleeper,1394,4,"G9,F1,F5,C4",5576,confirmed
+BK0083,TB856215,U008,VRL Travels,Goa,Mumbai,2026-02-02,2026-01-24,23:00,12:00,AC Seater,408,3,"C7,C3,C3",1224,completed
+BK0084,TB915922,U014,KSRTC Airavat,Chandigarh,Hyderabad,2026-03-19,2026-03-15,23:15,06:15,AC Seater,1159,3,"H4,F8,H5",3477,pending
+BK0085,TB386042,U017,Kallada Travels,Jaipur,Pune,2026-02-22,2026-02-21,21:30,08:30,AC Seater,658,2,"B5,B3",1316,pending
+BK0086,TB493124,U017,VRL Travels,Chandigarh,Goa,2026-03-19,2026-03-13,06:45,09:45,Sleeper,437,2,"F4,G2",874,completed
+BK0087,TB326130,U011,Orange Travels,Tirupati,Hyderabad,2026-01-25,2026-01-20,21:15,11:15,Non AC Sleeper,549,2,"A2,A5",1098,completed
+BK0088,TB702980,U024,KPN Travels,Delhi,Kochi,2026-02-20,2026-02-15,09:00,15:00,Sleeper,477,3,"H2,B8,A9",1431,completed
+BK0089,TB766549,U005,IntrCity Smart,Tirupati,Jaipur,2026-02-20,2026-02-10,19:15,08:15,Sleeper,253,3,"F2,A7,H1",759,completed
+BK0090,TB166165,U009,TSRTC Super Luxury,Jaipur,Vijayawada,2026-02-20,2026-02-08,09:30,14:30,Non AC Sleeper,388,3,"F3,H8,C3",1164,confirmed
+BK0091,TB400009,U010,SRS Travels,Chandigarh,Hyderabad,2026-03-02,2026-02-25,22:45,09:45,AC Sleeper,658,1,A4,658,completed
+BK0092,TB825686,U025,TSRTC Super Luxury,Madurai,Chandigarh,2026-03-09,2026-03-02,18:45,03:45,Non AC Sleeper,809,1,C8,809,completed
+BK0093,TB421384,U017,IntrCity Smart,Goa,Vijayawada,2026-03-17,2026-03-07,11:30,19:30,AC Sleeper,1119,1,F5,1119,confirmed
+BK0094,TB249715,U023,Kallada Travels,Chandigarh,Kochi,2026-03-19,2026-03-18,17:45,00:45,AC Seater,1159,3,"A2,G6,C1",3477,completed
+BK0095,TB484774,U005,Orange Travels,Chandigarh,Hyderabad,2026-03-08,2026-03-01,07:15,20:15,AC Seater,1571,3,"F6,H2,C9",4713,completed
+BK0096,TB324993,U021,IntrCity Smart,Jaipur,Vijayawada,2026-02-13,2026-02-05,22:45,09:45,AC Seater,482,1,E8,482,confirmed
+BK0097,TB844007,U016,SRS Travels,Kochi,Jaipur,2026-03-19,2026-03-16,20:00,09:00,AC Sleeper,527,1,F6,527,pending
+BK0098,TB680933,U018,IntrCity Smart,Chennai,Kochi,2026-03-08,2026-02-27,13:00,19:00,Non AC Sleeper,572,2,"D8,A6",1144,cancelled
+BK0099,TB813145,U018,VRL Travels,Madurai,Tirupati,2026-03-12,2026-02-28,21:45,06:45,AC Sleeper,384,3,"B3,F2,H8",1152,cancelled
+BK0100,TB765905,U025,Zingbus,Madurai,Chennai,2026-03-26,2026-03-12,07:00,18:00,AC Seater,514,4,"C6,D6,E2,E4",2056,confirmed
+BK0101,TB772612,U021,IntrCity Smart,Pune,Chennai,2026-04-06,2026-03-27,10:15,23:15,AC Sleeper,1279,2,"A1,B1",2558,pending
+BK0102,TB411882,U007,KPN Travels,Pune,Madurai,2026-03-25,2026-03-14,23:30,12:30,Sleeper,1515,1,D7,1515,pending
+BK0103,TB228473,U023,TSRTC Super Luxury,Chandigarh,Bangalore,2026-03-23,2026-03-15,12:30,00:30,AC Seater,1150,4,"F7,C6,B6,D8",4600,pending
+BK0104,TB423528,U008,VRL Travels,Pune,Tirupati,2026-03-11,2026-02-25,19:15,00:15,AC Sleeper,353,3,"F4,C8,H8",1059,cancelled
+BK0105,TB551860,U003,Kallada Travels,Goa,Hyderabad,2026-04-05,2026-03-30,07:00,14:00,Sleeper,743,2,"E9,A2",1486,pending
+BK0106,TB628750,U009,KSRTC Airavat,Delhi,Goa,2026-03-13,2026-03-12,23:15,07:15,Sleeper,999,1,B7,999,completed
+BK0107,TB142210,U018,IntrCity Smart,Chandigarh,Jaipur,2026-03-12,2026-03-06,16:30,21:30,AC Sleeper,513,1,G9,513,confirmed
+BK0108,TB597960,U005,KSRTC Airavat,Bangalore,Hyderabad,2026-02-09,2026-01-30,22:15,06:15,Sleeper,1313,4,"F3,G5,F9,H5",5252,pending
+BK0109,TB961574,U011,Orange Travels,Hyderabad,Visakhapatnam,2026-04-19,2026-04-08,06:45,13:45,Sleeper,1445,3,"A8,C9,G3",4335,confirmed
+BK0110,TB651002,U019,Orange Travels,Tirupati,Hyderabad,2026-03-02,2026-02-23,10:45,00:45,AC Seater,288,4,"H1,C9,D9,F8",1152,confirmed
+BK0111,TB432441,U006,Paulo Travels,Jaipur,Vijayawada,2026-04-17,2026-04-04,14:45,20:45,Non AC Sleeper,1368,3,"E4,E5,D8",4104,pending
+BK0112,TB384303,U018,IntrCity Smart,Goa,Vijayawada,2026-03-12,2026-02-26,17:15,00:15,Non AC Sleeper,499,4,"B6,H5,H4,D9",1996,confirmed
+BK0113,TB814281,U004,KPN Travels,Pune,Chennai,2026-04-16,2026-04-07,13:15,16:15,AC Seater,746,1,H2,746,pending
+BK0114,TB926236,U018,VRL Travels,Delhi,Hyderabad,2026-03-23,2026-03-12,12:30,20:30,Sleeper,1587,4,"B4,A3,G3,A7",6348,confirmed
+BK0115,TB446747,U024,IntrCity Smart,Goa,Chennai,2026-04-03,2026-03-24,09:30,16:30,AC Sleeper,268,3,"C9,H5,D2",804,pending
+BK0116,TB293757,U015,IntrCity Smart,Vijayawada,Jaipur,2026-02-27,2026-02-17,12:15,00:15,AC Seater,278,3,"G7,F2,G2",834,cancelled
+BK0117,TB267475,U011,SRS Travels,Delhi,Pune,2026-02-20,2026-02-12,14:30,21:30,AC Sleeper,784,4,"A5,F4,A2,H5",3136,completed
+BK0118,TB940952,U017,IntrCity Smart,Jaipur,Coimbatore,2026-03-09,2026-02-27,13:15,18:15,AC Sleeper,1558,3,"H6,G9,H9",4674,completed
+BK0119,TB195359,U008,KPN Travels,Visakhapatnam,Lucknow,2026-03-29,2026-03-17,17:00,05:00,AC Sleeper,1326,4,"C3,F9,H2,D8",5304,confirmed
+BK0120,TB461264,U002,Paulo Travels,Chandigarh,Jaipur,2026-03-20,2026-03-10,07:45,20:45,AC Seater,1301,4,"A7,E1,D2,A7",5204,cancelled
+BK0121,TB239449,U002,Orange Travels,Chennai,Kochi,2026-03-14,2026-03-11,10:45,18:45,Sleeper,314,3,"G8,G7,B9",942,pending
+BK0122,TB359535,U006,Zingbus,Madurai,Bangalore,2026-02-18,2026-02-04,06:00,13:00,Sleeper,1333,2,"G9,G4",2666,completed
+BK0123,TB356622,U005,IntrCity Smart,Chandigarh,Vijayawada,2026-04-15,2026-04-08,06:15,12:15,AC Seater,481,1,H1,481,confirmed
+BK0124,TB331780,U015,SRS Travels,Bangalore,Tirupati,2026-03-26,2026-03-21,13:30,01:30,AC Seater,365,2,"D5,C9",730,pending
+BK0125,TB990598,U009,TSRTC Super Luxury,Lucknow,Delhi,2026-04-02,2026-03-25,07:30,20:30,AC Seater,1532,4,"G7,C5,G3,H4",6128,pending
+BK0126,TB381502,U023,VRL Travels,Tirupati,Delhi,2026-03-15,2026-03-06,22:15,07:15,Sleeper,368,4,"D6,B8,F2,D1",1472,confirmed
+BK0127,TB877493,U020,KPN Travels,Jaipur,Coimbatore,2026-04-06,2026-03-25,23:15,09:15,AC Sleeper,399,2,"E1,D4",798,pending
+BK0128,TB637727,U025,Paulo Travels,Mumbai,Jaipur,2026-03-12,2026-03-08,23:30,06:30,AC Seater,1487,2,"F5,E6",2974,completed
+BK0129,TB445888,U004,Paulo Travels,Goa,Tirupati,2026-03-02,2026-02-23,07:15,21:15,Non AC Sleeper,666,3,"E9,G5,C4",1998,confirmed
+BK0130,TB668471,U019,SRS Travels,Tirupati,Visakhapatnam,2026-02-22,2026-02-09,21:45,07:45,Sleeper,1377,3,"F3,C9,H3",4131,confirmed
+BK0131,TB106933,U002,Orange Travels,Bangalore,Kochi,2026-02-07,2026-01-24,13:00,03:00,AC Sleeper,263,4,"D9,H6,A8,H1",1052,confirmed
+BK0132,TB380310,U001,Zingbus,Lucknow,Hyderabad,2026-01-23,2026-01-14,19:15,23:15,Non AC Sleeper,1347,3,"C4,D9,E6",4041,pending
+BK0133,TB679549,U012,Kallada Travels,Jaipur,Bangalore,2026-04-20,2026-04-16,15:00,04:00,Sleeper,1407,2,"B7,G7",2814,confirmed
+BK0134,TB690882,U021,TSRTC Super Luxury,Goa,Hyderabad,2026-03-17,2026-03-06,16:00,03:00,AC Seater,419,4,"D4,H5,A2,E9",1676,pending
+BK0135,TB892313,U011,TSRTC Super Luxury,Bangalore,Mumbai,2026-03-12,2026-03-10,15:15,03:15,AC Seater,1452,2,"G9,F7",2904,confirmed
+BK0136,TB131064,U023,Orange Travels,Delhi,Lucknow,2026-03-17,2026-03-13,08:30,20:30,Non AC Sleeper,359,1,G6,359,cancelled
+BK0137,TB432061,U015,Paulo Travels,Pune,Lucknow,2026-03-17,2026-03-14,18:00,06:00,AC Seater,978,4,"D2,B5,C7,C7",3912,confirmed
+BK0138,TB197584,U003,TSRTC Super Luxury,Madurai,Bangalore,2026-02-24,2026-02-22,10:00,15:00,Non AC Sleeper,1160,3,"G2,A2,F9",3480,completed
+BK0139,TB166340,U013,TSRTC Super Luxury,Coimbatore,Chandigarh,2026-01-31,2026-01-19,23:15,11:15,Non AC Sleeper,1097,4,"G3,C5,E5,H3",4388,completed
+BK0140,TB242071,U009,Kallada Travels,Vijayawada,Tirupati,2026-03-08,2026-03-03,13:45,01:45,Non AC Sleeper,1241,1,H2,1241,completed
+BK0141,TB703853,U013,KSRTC Airavat,Kochi,Hyderabad,2026-03-04,2026-02-25,10:30,18:30,Sleeper,924,4,"D8,F3,G6,E8",3696,completed
+BK0142,TB559753,U013,IntrCity Smart,Tirupati,Vijayawada,2026-04-03,2026-03-30,23:15,12:15,Sleeper,997,1,H4,997,confirmed
+BK0143,TB710527,U023,Orange Travels,Kochi,Chandigarh,2026-04-12,2026-04-07,13:30,02:30,Sleeper,1272,2,"G2,H8",2544,pending
+BK0144,TB889245,U017,Kallada Travels,Jaipur,Pune,2026-02-03,2026-01-21,13:30,18:30,AC Sleeper,986,1,A7,986,completed
+BK0145,TB209627,U014,Orange Travels,Coimbatore,Lucknow,2026-02-18,2026-02-09,22:15,08:15,AC Sleeper,451,3,"H9,C6,A8",1353,completed
+BK0146,TB949541,U003,Orange Travels,Kochi,Visakhapatnam,2026-03-05,2026-02-25,12:45,20:45,AC Seater,963,3,"H8,F2,E1",2889,completed
+BK0147,TB130610,U011,Orange Travels,Mumbai,Hyderabad,2026-04-01,2026-03-29,16:45,02:45,AC Seater,749,2,"C3,G7",1498,pending
+BK0148,TB375097,U019,Kallada Travels,Visakhapatnam,Pune,2026-02-16,2026-02-11,08:00,19:00,Sleeper,259,2,"F4,H2",518,confirmed
+BK0149,TB491439,U021,KSRTC Airavat,Goa,Pune,2026-04-06,2026-04-04,17:30,03:30,Sleeper,1501,4,"B3,F2,D5,B3",6004,pending
+BK0150,TB608149,U013,Kallada Travels,Delhi,Kochi,2026-03-16,2026-03-13,21:15,08:15,AC Seater,1427,4,"E3,C6,H1,F1",5708,confirmed
+BK0151,TB918665,U013,Zingbus,Delhi,Mumbai,2026-03-15,2026-03-03,20:45,01:45,Sleeper,1087,4,"A4,E1,E4,E3",4348,confirmed
+BK0152,TB672892,U024,Paulo Travels,Chandigarh,Kochi,2026-02-24,2026-02-11,23:30,10:30,AC Sleeper,1422,1,A8,1422,cancelled
+BK0153,TB944565,U004,SRS Travels,Visakhapatnam,Tirupati,2026-02-23,2026-02-17,08:45,12:45,Non AC Sleeper,316,4,"D4,F7,C3,D4",1264,cancelled
+BK0154,TB390794,U012,Zingbus,Bangalore,Coimbatore,2026-03-03,2026-02-19,15:30,03:30,Non AC Sleeper,1472,2,"B3,G1",2944,confirmed
+BK0155,TB522419,U005,SRS Travels,Delhi,Jaipur,2026-04-17,2026-04-10,21:15,09:15,AC Seater,909,2,"G8,B2",1818,pending
+BK0156,TB550513,U012,Paulo Travels,Pune,Jaipur,2026-02-01,2026-01-20,20:30,00:30,Sleeper,920,1,G4,920,cancelled
+BK0157,TB999312,U009,KSRTC Airavat,Visakhapatnam,Pune,2026-04-03,2026-03-20,21:30,10:30,Non AC Sleeper,941,2,"B8,A2",1882,confirmed
+BK0158,TB515594,U015,TSRTC Super Luxury,Vijayawada,Pune,2026-04-14,2026-04-09,11:30,15:30,Sleeper,664,2,"B6,C1",1328,pending
+BK0159,TB108454,U023,SRS Travels,Kochi,Jaipur,2026-04-21,2026-04-19,06:15,16:15,Sleeper,1592,1,H1,1592,confirmed
+BK0160,TB501312,U004,Kallada Travels,Coimbatore,Chandigarh,2026-02-19,2026-02-12,08:00,12:00,AC Seater,1228,1,E3,1228,completed
+BK0161,TB327797,U022,VRL Travels,Delhi,Madurai,2026-04-09,2026-03-29,11:45,19:45,AC Sleeper,1336,1,G8,1336,confirmed
+BK0162,TB409898,U004,VRL Travels,Chennai,Goa,2026-03-06,2026-02-27,16:15,22:15,AC Sleeper,1457,4,"B4,E1,E4,D7",5828,confirmed
+BK0163,TB816116,U008,Paulo Travels,Bangalore,Lucknow,2026-03-25,2026-03-14,08:00,16:00,Sleeper,480,2,"G7,F9",960,confirmed
+BK0164,TB400404,U016,Orange Travels,Vijayawada,Lucknow,2026-01-22,2026-01-17,12:00,15:00,AC Sleeper,1452,1,G9,1452,pending
+BK0165,TB714923,U023,Kallada Travels,Lucknow,Visakhapatnam,2026-02-25,2026-02-23,15:00,02:00,AC Sleeper,1561,2,"C9,F7",3122,pending
+BK0166,TB842287,U023,Kallada Travels,Chennai,Vijayawada,2026-02-01,2026-01-25,09:45,21:45,AC Seater,368,2,"E3,B1",736,completed
+BK0167,TB846925,U001,VRL Travels,Delhi,Jaipur,2026-02-11,2026-02-05,10:30,00:30,Sleeper,960,3,"A6,G5,B5",2880,cancelled
+BK0168,TB481657,U015,Zingbus,Chennai,Pune,2026-04-03,2026-03-31,17:15,00:15,Non AC Sleeper,363,4,"D9,A1,A4,A8",1452,confirmed
+BK0169,TB148159,U005,VRL Travels,Jaipur,Goa,2026-02-18,2026-02-12,13:45,03:45,AC Sleeper,1382,4,"B6,B9,A3,D9",5528,completed
+BK0170,TB486162,U015,IntrCity Smart,Jaipur,Bangalore,2026-04-01,2026-03-24,06:30,12:30,Non AC Sleeper,920,1,D8,920,pending
+BK0171,TB101533,U025,SRS Travels,Goa,Jaipur,2026-03-14,2026-03-13,13:30,02:30,AC Seater,558,1,A6,558,cancelled
+BK0172,TB580728,U024,IntrCity Smart,Jaipur,Chandigarh,2026-03-15,2026-03-07,07:15,21:15,AC Sleeper,670,2,"A4,G6",1340,confirmed
+BK0173,TB385166,U004,Zingbus,Chennai,Coimbatore,2026-01-30,2026-01-20,07:45,20:45,AC Seater,1555,4,"D5,E6,G6,F8",6220,pending
+BK0174,TB573869,U007,VRL Travels,Tirupati,Bangalore,2026-02-11,2026-02-03,20:30,05:30,AC Sleeper,568,1,F4,568,confirmed
+BK0175,TB132591,U009,Orange Travels,Kochi,Tirupati,2026-04-21,2026-04-09,07:15,15:15,AC Sleeper,572,3,"F7,A5,E3",1716,confirmed
+BK0176,TB122859,U015,Zingbus,Jaipur,Chandigarh,2026-02-03,2026-01-21,10:00,13:00,AC Seater,443,4,"D3,D7,F2,E2",1772,confirmed
+BK0177,TB281201,U021,Paulo Travels,Chennai,Delhi,2026-02-05,2026-02-04,20:00,01:00,AC Seater,438,3,"G7,H1,G7",1314,pending
+BK0178,TB501620,U006,IntrCity Smart,Madurai,Mumbai,2026-01-25,2026-01-15,13:30,23:30,Non AC Sleeper,1163,2,"H1,B5",2326,completed
+BK0179,TB437226,U007,Zingbus,Delhi,Tirupati,2026-03-10,2026-02-25,17:45,04:45,AC Seater,1541,1,F9,1541,cancelled
+BK0180,TB788772,U006,TSRTC Super Luxury,Jaipur,Delhi,2026-01-24,2026-01-11,14:00,00:00,Non AC Sleeper,1472,2,"D3,B4",2944,completed
+BK0181,TB614259,U018,TSRTC Super Luxury,Tirupati,Delhi,2026-03-07,2026-02-21,11:15,17:15,AC Seater,1429,4,"F1,F3,D8,E3",5716,completed
+BK0182,TB491738,U002,SRS Travels,Bangalore,Chennai,2026-01-21,2026-01-15,12:15,20:15,AC Seater,290,4,"F1,A3,C2,F2",1160,cancelled
+BK0183,TB421727,U004,KSRTC Airavat,Jaipur,Kochi,2026-02-10,2026-01-29,19:45,08:45,Non AC Sleeper,910,2,"F4,C7",1820,completed
+BK0184,TB447255,U006,TSRTC Super Luxury,Kochi,Chennai,2026-02-13,2026-02-03,16:15,05:15,Sleeper,1412,1,H3,1412,completed
+BK0185,TB369125,U012,KSRTC Airavat,Chennai,Delhi,2026-04-21,2026-04-10,16:45,19:45,AC Seater,1552,1,B6,1552,confirmed
+BK0186,TB121053,U001,TSRTC Super Luxury,Mumbai,Jaipur,2026-02-11,2026-02-04,21:45,05:45,Sleeper,1147,4,"B8,D3,H2,A5",4588,completed
+BK0187,TB447177,U004,Orange Travels,Coimbatore,Delhi,2026-02-10,2026-01-29,08:00,16:00,Non AC Sleeper,598,4,"H1,G3,G3,A2",2392,completed
+BK0188,TB191884,U014,Zingbus,Visakhapatnam,Mumbai,2026-02-20,2026-02-18,07:45,19:45,Non AC Sleeper,826,3,"H3,A6,A7",2478,completed
+BK0189,TB923002,U022,KPN Travels,Kochi,Chandigarh,2026-01-24,2026-01-20,11:30,15:30,Sleeper,658,1,B5,658,completed
+BK0190,TB888775,U016,IntrCity Smart,Jaipur,Tirupati,2026-02-13,2026-02-07,18:30,23:30,AC Sleeper,1564,4,"E8,H5,D5,A3",6256,completed
+BK0191,TB513982,U022,KSRTC Airavat,Mumbai,Bangalore,2026-04-01,2026-03-31,18:45,05:45,Sleeper,1457,2,"D8,E2",2914,pending
+BK0192,TB506951,U019,Zingbus,Bangalore,Kochi,2026-02-12,2026-02-09,12:15,17:15,AC Seater,496,4,"B7,D3,E6,B2",1984,confirmed
+BK0193,TB786594,U011,IntrCity Smart,Jaipur,Pune,2026-02-04,2026-01-28,10:15,22:15,Sleeper,275,4,"B2,B5,F7,E7",1100,completed
+BK0194,TB121215,U020,Paulo Travels,Goa,Kochi,2026-03-13,2026-03-10,18:00,03:00,AC Sleeper,602,3,"F4,A8,E6",1806,cancelled
+BK0195,TB297064,U010,IntrCity Smart,Coimbatore,Chandigarh,2026-02-19,2026-02-16,15:45,23:45,Non AC Sleeper,1256,1,G2,1256,confirmed
+BK0196,TB977633,U014,Paulo Travels,Chandigarh,Mumbai,2026-01-29,2026-01-24,22:45,03:45,Non AC Sleeper,365,2,"A3,D4",730,cancelled
+BK0197,TB722899,U002,Paulo Travels,Bangalore,Delhi,2026-02-25,2026-02-19,20:45,09:45,AC Sleeper,988,2,"A4,F8",1976,pending
+BK0198,TB810614,U016,KPN Travels,Chandigarh,Chennai,2026-02-23,2026-02-11,08:30,11:30,Non AC Sleeper,955,2,"C4,D4",1910,completed
+BK0199,TB589368,U021,Kallada Travels,Visakhapatnam,Delhi,2026-02-06,2026-01-26,11:00,17:00,AC Sleeper,268,4,"E5,G7,F8,E4",1072,confirmed
+BK0200,TB452618,U017,KPN Travels,Kochi,Madurai,2026-01-21,2026-01-12,17:30,00:30,Sleeper,1447,1,H2,1447,completed
